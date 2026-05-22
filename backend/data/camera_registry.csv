@@ -1,0 +1,1001 @@
+source_id,source_name,latitude,longitude,address,notes
+MUM-CAM-0001,Colaba Traffic Camera 1,18.902700,72.810375,"Colaba, Mumbai",Signal junction
+MUM-CAM-0002,Colaba Traffic Camera 2,18.904500,72.810375,"Colaba, Mumbai",Flyover approach
+MUM-CAM-0003,Colaba Traffic Camera 3,18.906300,72.810375,"Colaba, Mumbai",Market stretch
+MUM-CAM-0004,Colaba Traffic Camera 4,18.908100,72.810375,"Colaba, Mumbai",Transit corridor
+MUM-CAM-0005,Colaba Traffic Camera 5,18.909900,72.810375,"Colaba, Mumbai",Pedestrian crossing
+MUM-CAM-0006,Colaba Traffic Camera 6,18.902700,72.812275,"Colaba, Mumbai",Signal junction
+MUM-CAM-0007,Colaba Traffic Camera 7,18.904500,72.812275,"Colaba, Mumbai",Flyover approach
+MUM-CAM-0008,Colaba Traffic Camera 8,18.906300,72.812275,"Colaba, Mumbai",Market stretch
+MUM-CAM-0009,Colaba Traffic Camera 9,18.908100,72.812275,"Colaba, Mumbai",Transit corridor
+MUM-CAM-0010,Colaba Traffic Camera 10,18.909900,72.812275,"Colaba, Mumbai",Pedestrian crossing
+MUM-CAM-0011,Colaba Traffic Camera 11,18.902700,72.814175,"Colaba, Mumbai",Signal junction
+MUM-CAM-0012,Colaba Traffic Camera 12,18.904500,72.814175,"Colaba, Mumbai",Flyover approach
+MUM-CAM-0013,Colaba Traffic Camera 13,18.906300,72.814175,"Colaba, Mumbai",Market stretch
+MUM-CAM-0014,Colaba Traffic Camera 14,18.908100,72.814175,"Colaba, Mumbai",Transit corridor
+MUM-CAM-0015,Colaba Traffic Camera 15,18.909900,72.814175,"Colaba, Mumbai",Pedestrian crossing
+MUM-CAM-0016,Colaba Traffic Camera 16,18.902700,72.816075,"Colaba, Mumbai",Signal junction
+MUM-CAM-0017,Colaba Traffic Camera 17,18.904500,72.816075,"Colaba, Mumbai",Flyover approach
+MUM-CAM-0018,Colaba Traffic Camera 18,18.906300,72.816075,"Colaba, Mumbai",Market stretch
+MUM-CAM-0019,Colaba Traffic Camera 19,18.908100,72.816075,"Colaba, Mumbai",Transit corridor
+MUM-CAM-0020,Colaba Traffic Camera 20,18.909900,72.816075,"Colaba, Mumbai",Pedestrian crossing
+MUM-CAM-0021,Colaba Traffic Camera 21,18.902700,72.817975,"Colaba, Mumbai",Signal junction
+MUM-CAM-0022,Colaba Traffic Camera 22,18.904500,72.817975,"Colaba, Mumbai",Flyover approach
+MUM-CAM-0023,Colaba Traffic Camera 23,18.906300,72.817975,"Colaba, Mumbai",Market stretch
+MUM-CAM-0024,Colaba Traffic Camera 24,18.908100,72.817975,"Colaba, Mumbai",Transit corridor
+MUM-CAM-0025,Colaba Traffic Camera 25,18.909900,72.817975,"Colaba, Mumbai",Pedestrian crossing
+MUM-CAM-0026,Fort Traffic Camera 1,18.930400,72.831525,"Fort, Mumbai",Signal junction
+MUM-CAM-0027,Fort Traffic Camera 2,18.932200,72.831525,"Fort, Mumbai",Flyover approach
+MUM-CAM-0028,Fort Traffic Camera 3,18.934000,72.831525,"Fort, Mumbai",Market stretch
+MUM-CAM-0029,Fort Traffic Camera 4,18.935800,72.831525,"Fort, Mumbai",Transit corridor
+MUM-CAM-0030,Fort Traffic Camera 5,18.937600,72.831525,"Fort, Mumbai",Pedestrian crossing
+MUM-CAM-0031,Fort Traffic Camera 6,18.930400,72.833425,"Fort, Mumbai",Signal junction
+MUM-CAM-0032,Fort Traffic Camera 7,18.932200,72.833425,"Fort, Mumbai",Flyover approach
+MUM-CAM-0033,Fort Traffic Camera 8,18.934000,72.833425,"Fort, Mumbai",Market stretch
+MUM-CAM-0034,Fort Traffic Camera 9,18.935800,72.833425,"Fort, Mumbai",Transit corridor
+MUM-CAM-0035,Fort Traffic Camera 10,18.937600,72.833425,"Fort, Mumbai",Pedestrian crossing
+MUM-CAM-0036,Fort Traffic Camera 11,18.930400,72.835325,"Fort, Mumbai",Signal junction
+MUM-CAM-0037,Fort Traffic Camera 12,18.932200,72.835325,"Fort, Mumbai",Flyover approach
+MUM-CAM-0038,Fort Traffic Camera 13,18.934000,72.835325,"Fort, Mumbai",Market stretch
+MUM-CAM-0039,Fort Traffic Camera 14,18.935800,72.835325,"Fort, Mumbai",Transit corridor
+MUM-CAM-0040,Fort Traffic Camera 15,18.937600,72.835325,"Fort, Mumbai",Pedestrian crossing
+MUM-CAM-0041,Fort Traffic Camera 16,18.930400,72.837225,"Fort, Mumbai",Signal junction
+MUM-CAM-0042,Fort Traffic Camera 17,18.932200,72.837225,"Fort, Mumbai",Flyover approach
+MUM-CAM-0043,Fort Traffic Camera 18,18.934000,72.837225,"Fort, Mumbai",Market stretch
+MUM-CAM-0044,Fort Traffic Camera 19,18.935800,72.837225,"Fort, Mumbai",Transit corridor
+MUM-CAM-0045,Fort Traffic Camera 20,18.937600,72.837225,"Fort, Mumbai",Pedestrian crossing
+MUM-CAM-0046,Fort Traffic Camera 21,18.930400,72.839125,"Fort, Mumbai",Signal junction
+MUM-CAM-0047,Fort Traffic Camera 22,18.932200,72.839125,"Fort, Mumbai",Flyover approach
+MUM-CAM-0048,Fort Traffic Camera 23,18.934000,72.839125,"Fort, Mumbai",Market stretch
+MUM-CAM-0049,Fort Traffic Camera 24,18.935800,72.839125,"Fort, Mumbai",Transit corridor
+MUM-CAM-0050,Fort Traffic Camera 25,18.937600,72.839125,"Fort, Mumbai",Pedestrian crossing
+MUM-CAM-0051,Churchgate Traffic Camera 1,18.932000,72.823875,"Churchgate, Mumbai",Signal junction
+MUM-CAM-0052,Churchgate Traffic Camera 2,18.933800,72.823875,"Churchgate, Mumbai",Flyover approach
+MUM-CAM-0053,Churchgate Traffic Camera 3,18.935600,72.823875,"Churchgate, Mumbai",Market stretch
+MUM-CAM-0054,Churchgate Traffic Camera 4,18.937400,72.823875,"Churchgate, Mumbai",Transit corridor
+MUM-CAM-0055,Churchgate Traffic Camera 5,18.939200,72.823875,"Churchgate, Mumbai",Pedestrian crossing
+MUM-CAM-0056,Churchgate Traffic Camera 6,18.932000,72.825775,"Churchgate, Mumbai",Signal junction
+MUM-CAM-0057,Churchgate Traffic Camera 7,18.933800,72.825775,"Churchgate, Mumbai",Flyover approach
+MUM-CAM-0058,Churchgate Traffic Camera 8,18.935600,72.825775,"Churchgate, Mumbai",Market stretch
+MUM-CAM-0059,Churchgate Traffic Camera 9,18.937400,72.825775,"Churchgate, Mumbai",Transit corridor
+MUM-CAM-0060,Churchgate Traffic Camera 10,18.939200,72.825775,"Churchgate, Mumbai",Pedestrian crossing
+MUM-CAM-0061,Churchgate Traffic Camera 11,18.932000,72.827675,"Churchgate, Mumbai",Signal junction
+MUM-CAM-0062,Churchgate Traffic Camera 12,18.933800,72.827675,"Churchgate, Mumbai",Flyover approach
+MUM-CAM-0063,Churchgate Traffic Camera 13,18.935600,72.827675,"Churchgate, Mumbai",Market stretch
+MUM-CAM-0064,Churchgate Traffic Camera 14,18.937400,72.827675,"Churchgate, Mumbai",Transit corridor
+MUM-CAM-0065,Churchgate Traffic Camera 15,18.939200,72.827675,"Churchgate, Mumbai",Pedestrian crossing
+MUM-CAM-0066,Churchgate Traffic Camera 16,18.932000,72.829575,"Churchgate, Mumbai",Signal junction
+MUM-CAM-0067,Churchgate Traffic Camera 17,18.933800,72.829575,"Churchgate, Mumbai",Flyover approach
+MUM-CAM-0068,Churchgate Traffic Camera 18,18.935600,72.829575,"Churchgate, Mumbai",Market stretch
+MUM-CAM-0069,Churchgate Traffic Camera 19,18.937400,72.829575,"Churchgate, Mumbai",Transit corridor
+MUM-CAM-0070,Churchgate Traffic Camera 20,18.939200,72.829575,"Churchgate, Mumbai",Pedestrian crossing
+MUM-CAM-0071,Churchgate Traffic Camera 21,18.932000,72.831475,"Churchgate, Mumbai",Signal junction
+MUM-CAM-0072,Churchgate Traffic Camera 22,18.933800,72.831475,"Churchgate, Mumbai",Flyover approach
+MUM-CAM-0073,Churchgate Traffic Camera 23,18.935600,72.831475,"Churchgate, Mumbai",Market stretch
+MUM-CAM-0074,Churchgate Traffic Camera 24,18.937400,72.831475,"Churchgate, Mumbai",Transit corridor
+MUM-CAM-0075,Churchgate Traffic Camera 25,18.939200,72.831475,"Churchgate, Mumbai",Pedestrian crossing
+MUM-CAM-0076,Marine Drive Traffic Camera 1,18.939000,72.820525,"Marine Drive, Mumbai",Signal junction
+MUM-CAM-0077,Marine Drive Traffic Camera 2,18.940800,72.820525,"Marine Drive, Mumbai",Flyover approach
+MUM-CAM-0078,Marine Drive Traffic Camera 3,18.942600,72.820525,"Marine Drive, Mumbai",Market stretch
+MUM-CAM-0079,Marine Drive Traffic Camera 4,18.944400,72.820525,"Marine Drive, Mumbai",Transit corridor
+MUM-CAM-0080,Marine Drive Traffic Camera 5,18.946200,72.820525,"Marine Drive, Mumbai",Pedestrian crossing
+MUM-CAM-0081,Marine Drive Traffic Camera 6,18.939000,72.822425,"Marine Drive, Mumbai",Signal junction
+MUM-CAM-0082,Marine Drive Traffic Camera 7,18.940800,72.822425,"Marine Drive, Mumbai",Flyover approach
+MUM-CAM-0083,Marine Drive Traffic Camera 8,18.942600,72.822425,"Marine Drive, Mumbai",Market stretch
+MUM-CAM-0084,Marine Drive Traffic Camera 9,18.944400,72.822425,"Marine Drive, Mumbai",Transit corridor
+MUM-CAM-0085,Marine Drive Traffic Camera 10,18.946200,72.822425,"Marine Drive, Mumbai",Pedestrian crossing
+MUM-CAM-0086,Marine Drive Traffic Camera 11,18.939000,72.824325,"Marine Drive, Mumbai",Signal junction
+MUM-CAM-0087,Marine Drive Traffic Camera 12,18.940800,72.824325,"Marine Drive, Mumbai",Flyover approach
+MUM-CAM-0088,Marine Drive Traffic Camera 13,18.942600,72.824325,"Marine Drive, Mumbai",Market stretch
+MUM-CAM-0089,Marine Drive Traffic Camera 14,18.944400,72.824325,"Marine Drive, Mumbai",Transit corridor
+MUM-CAM-0090,Marine Drive Traffic Camera 15,18.946200,72.824325,"Marine Drive, Mumbai",Pedestrian crossing
+MUM-CAM-0091,Marine Drive Traffic Camera 16,18.939000,72.826225,"Marine Drive, Mumbai",Signal junction
+MUM-CAM-0092,Marine Drive Traffic Camera 17,18.940800,72.826225,"Marine Drive, Mumbai",Flyover approach
+MUM-CAM-0093,Marine Drive Traffic Camera 18,18.942600,72.826225,"Marine Drive, Mumbai",Market stretch
+MUM-CAM-0094,Marine Drive Traffic Camera 19,18.944400,72.826225,"Marine Drive, Mumbai",Transit corridor
+MUM-CAM-0095,Marine Drive Traffic Camera 20,18.946200,72.826225,"Marine Drive, Mumbai",Pedestrian crossing
+MUM-CAM-0096,Marine Drive Traffic Camera 21,18.939000,72.828125,"Marine Drive, Mumbai",Signal junction
+MUM-CAM-0097,Marine Drive Traffic Camera 22,18.940800,72.828125,"Marine Drive, Mumbai",Flyover approach
+MUM-CAM-0098,Marine Drive Traffic Camera 23,18.942600,72.828125,"Marine Drive, Mumbai",Market stretch
+MUM-CAM-0099,Marine Drive Traffic Camera 24,18.944400,72.828125,"Marine Drive, Mumbai",Transit corridor
+MUM-CAM-0100,Marine Drive Traffic Camera 25,18.946200,72.828125,"Marine Drive, Mumbai",Pedestrian crossing
+MUM-CAM-0101,Nariman Point Traffic Camera 1,18.922000,72.818875,"Nariman Point, Mumbai",Signal junction
+MUM-CAM-0102,Nariman Point Traffic Camera 2,18.923800,72.818875,"Nariman Point, Mumbai",Flyover approach
+MUM-CAM-0103,Nariman Point Traffic Camera 3,18.925600,72.818875,"Nariman Point, Mumbai",Market stretch
+MUM-CAM-0104,Nariman Point Traffic Camera 4,18.927400,72.818875,"Nariman Point, Mumbai",Transit corridor
+MUM-CAM-0105,Nariman Point Traffic Camera 5,18.929200,72.818875,"Nariman Point, Mumbai",Pedestrian crossing
+MUM-CAM-0106,Nariman Point Traffic Camera 6,18.922000,72.820775,"Nariman Point, Mumbai",Signal junction
+MUM-CAM-0107,Nariman Point Traffic Camera 7,18.923800,72.820775,"Nariman Point, Mumbai",Flyover approach
+MUM-CAM-0108,Nariman Point Traffic Camera 8,18.925600,72.820775,"Nariman Point, Mumbai",Market stretch
+MUM-CAM-0109,Nariman Point Traffic Camera 9,18.927400,72.820775,"Nariman Point, Mumbai",Transit corridor
+MUM-CAM-0110,Nariman Point Traffic Camera 10,18.929200,72.820775,"Nariman Point, Mumbai",Pedestrian crossing
+MUM-CAM-0111,Nariman Point Traffic Camera 11,18.922000,72.822675,"Nariman Point, Mumbai",Signal junction
+MUM-CAM-0112,Nariman Point Traffic Camera 12,18.923800,72.822675,"Nariman Point, Mumbai",Flyover approach
+MUM-CAM-0113,Nariman Point Traffic Camera 13,18.925600,72.822675,"Nariman Point, Mumbai",Market stretch
+MUM-CAM-0114,Nariman Point Traffic Camera 14,18.927400,72.822675,"Nariman Point, Mumbai",Transit corridor
+MUM-CAM-0115,Nariman Point Traffic Camera 15,18.929200,72.822675,"Nariman Point, Mumbai",Pedestrian crossing
+MUM-CAM-0116,Nariman Point Traffic Camera 16,18.922000,72.824575,"Nariman Point, Mumbai",Signal junction
+MUM-CAM-0117,Nariman Point Traffic Camera 17,18.923800,72.824575,"Nariman Point, Mumbai",Flyover approach
+MUM-CAM-0118,Nariman Point Traffic Camera 18,18.925600,72.824575,"Nariman Point, Mumbai",Market stretch
+MUM-CAM-0119,Nariman Point Traffic Camera 19,18.927400,72.824575,"Nariman Point, Mumbai",Transit corridor
+MUM-CAM-0120,Nariman Point Traffic Camera 20,18.929200,72.824575,"Nariman Point, Mumbai",Pedestrian crossing
+MUM-CAM-0121,Nariman Point Traffic Camera 21,18.922000,72.826475,"Nariman Point, Mumbai",Signal junction
+MUM-CAM-0122,Nariman Point Traffic Camera 22,18.923800,72.826475,"Nariman Point, Mumbai",Flyover approach
+MUM-CAM-0123,Nariman Point Traffic Camera 23,18.925600,72.826475,"Nariman Point, Mumbai",Market stretch
+MUM-CAM-0124,Nariman Point Traffic Camera 24,18.927400,72.826475,"Nariman Point, Mumbai",Transit corridor
+MUM-CAM-0125,Nariman Point Traffic Camera 25,18.929200,72.826475,"Nariman Point, Mumbai",Pedestrian crossing
+MUM-CAM-0126,Byculla Traffic Camera 1,18.973500,72.829125,"Byculla, Mumbai",Signal junction
+MUM-CAM-0127,Byculla Traffic Camera 2,18.975300,72.829125,"Byculla, Mumbai",Flyover approach
+MUM-CAM-0128,Byculla Traffic Camera 3,18.977100,72.829125,"Byculla, Mumbai",Market stretch
+MUM-CAM-0129,Byculla Traffic Camera 4,18.978900,72.829125,"Byculla, Mumbai",Transit corridor
+MUM-CAM-0130,Byculla Traffic Camera 5,18.980700,72.829125,"Byculla, Mumbai",Pedestrian crossing
+MUM-CAM-0131,Byculla Traffic Camera 6,18.973500,72.831025,"Byculla, Mumbai",Signal junction
+MUM-CAM-0132,Byculla Traffic Camera 7,18.975300,72.831025,"Byculla, Mumbai",Flyover approach
+MUM-CAM-0133,Byculla Traffic Camera 8,18.977100,72.831025,"Byculla, Mumbai",Market stretch
+MUM-CAM-0134,Byculla Traffic Camera 9,18.978900,72.831025,"Byculla, Mumbai",Transit corridor
+MUM-CAM-0135,Byculla Traffic Camera 10,18.980700,72.831025,"Byculla, Mumbai",Pedestrian crossing
+MUM-CAM-0136,Byculla Traffic Camera 11,18.973500,72.832925,"Byculla, Mumbai",Signal junction
+MUM-CAM-0137,Byculla Traffic Camera 12,18.975300,72.832925,"Byculla, Mumbai",Flyover approach
+MUM-CAM-0138,Byculla Traffic Camera 13,18.977100,72.832925,"Byculla, Mumbai",Market stretch
+MUM-CAM-0139,Byculla Traffic Camera 14,18.978900,72.832925,"Byculla, Mumbai",Transit corridor
+MUM-CAM-0140,Byculla Traffic Camera 15,18.980700,72.832925,"Byculla, Mumbai",Pedestrian crossing
+MUM-CAM-0141,Byculla Traffic Camera 16,18.973500,72.834825,"Byculla, Mumbai",Signal junction
+MUM-CAM-0142,Byculla Traffic Camera 17,18.975300,72.834825,"Byculla, Mumbai",Flyover approach
+MUM-CAM-0143,Byculla Traffic Camera 18,18.977100,72.834825,"Byculla, Mumbai",Market stretch
+MUM-CAM-0144,Byculla Traffic Camera 19,18.978900,72.834825,"Byculla, Mumbai",Transit corridor
+MUM-CAM-0145,Byculla Traffic Camera 20,18.980700,72.834825,"Byculla, Mumbai",Pedestrian crossing
+MUM-CAM-0146,Byculla Traffic Camera 21,18.973500,72.836725,"Byculla, Mumbai",Signal junction
+MUM-CAM-0147,Byculla Traffic Camera 22,18.975300,72.836725,"Byculla, Mumbai",Flyover approach
+MUM-CAM-0148,Byculla Traffic Camera 23,18.977100,72.836725,"Byculla, Mumbai",Market stretch
+MUM-CAM-0149,Byculla Traffic Camera 24,18.978900,72.836725,"Byculla, Mumbai",Transit corridor
+MUM-CAM-0150,Byculla Traffic Camera 25,18.980700,72.836725,"Byculla, Mumbai",Pedestrian crossing
+MUM-CAM-0151,Dadar Traffic Camera 1,19.014000,72.838575,"Dadar, Mumbai",Signal junction
+MUM-CAM-0152,Dadar Traffic Camera 2,19.015800,72.838575,"Dadar, Mumbai",Flyover approach
+MUM-CAM-0153,Dadar Traffic Camera 3,19.017600,72.838575,"Dadar, Mumbai",Market stretch
+MUM-CAM-0154,Dadar Traffic Camera 4,19.019400,72.838575,"Dadar, Mumbai",Transit corridor
+MUM-CAM-0155,Dadar Traffic Camera 5,19.021200,72.838575,"Dadar, Mumbai",Pedestrian crossing
+MUM-CAM-0156,Dadar Traffic Camera 6,19.014000,72.840475,"Dadar, Mumbai",Signal junction
+MUM-CAM-0157,Dadar Traffic Camera 7,19.015800,72.840475,"Dadar, Mumbai",Flyover approach
+MUM-CAM-0158,Dadar Traffic Camera 8,19.017600,72.840475,"Dadar, Mumbai",Market stretch
+MUM-CAM-0159,Dadar Traffic Camera 9,19.019400,72.840475,"Dadar, Mumbai",Transit corridor
+MUM-CAM-0160,Dadar Traffic Camera 10,19.021200,72.840475,"Dadar, Mumbai",Pedestrian crossing
+MUM-CAM-0161,Dadar Traffic Camera 11,19.014000,72.842375,"Dadar, Mumbai",Signal junction
+MUM-CAM-0162,Dadar Traffic Camera 12,19.015800,72.842375,"Dadar, Mumbai",Flyover approach
+MUM-CAM-0163,Dadar Traffic Camera 13,19.017600,72.842375,"Dadar, Mumbai",Market stretch
+MUM-CAM-0164,Dadar Traffic Camera 14,19.019400,72.842375,"Dadar, Mumbai",Transit corridor
+MUM-CAM-0165,Dadar Traffic Camera 15,19.021200,72.842375,"Dadar, Mumbai",Pedestrian crossing
+MUM-CAM-0166,Dadar Traffic Camera 16,19.014000,72.844275,"Dadar, Mumbai",Signal junction
+MUM-CAM-0167,Dadar Traffic Camera 17,19.015800,72.844275,"Dadar, Mumbai",Flyover approach
+MUM-CAM-0168,Dadar Traffic Camera 18,19.017600,72.844275,"Dadar, Mumbai",Market stretch
+MUM-CAM-0169,Dadar Traffic Camera 19,19.019400,72.844275,"Dadar, Mumbai",Transit corridor
+MUM-CAM-0170,Dadar Traffic Camera 20,19.021200,72.844275,"Dadar, Mumbai",Pedestrian crossing
+MUM-CAM-0171,Dadar Traffic Camera 21,19.014000,72.846175,"Dadar, Mumbai",Signal junction
+MUM-CAM-0172,Dadar Traffic Camera 22,19.015800,72.846175,"Dadar, Mumbai",Flyover approach
+MUM-CAM-0173,Dadar Traffic Camera 23,19.017600,72.846175,"Dadar, Mumbai",Market stretch
+MUM-CAM-0174,Dadar Traffic Camera 24,19.019400,72.846175,"Dadar, Mumbai",Transit corridor
+MUM-CAM-0175,Dadar Traffic Camera 25,19.021200,72.846175,"Dadar, Mumbai",Pedestrian crossing
+MUM-CAM-0176,Parel Traffic Camera 1,18.995200,72.837325,"Parel, Mumbai",Signal junction
+MUM-CAM-0177,Parel Traffic Camera 2,18.997000,72.837325,"Parel, Mumbai",Flyover approach
+MUM-CAM-0178,Parel Traffic Camera 3,18.998800,72.837325,"Parel, Mumbai",Market stretch
+MUM-CAM-0179,Parel Traffic Camera 4,19.000600,72.837325,"Parel, Mumbai",Transit corridor
+MUM-CAM-0180,Parel Traffic Camera 5,19.002400,72.837325,"Parel, Mumbai",Pedestrian crossing
+MUM-CAM-0181,Parel Traffic Camera 6,18.995200,72.839225,"Parel, Mumbai",Signal junction
+MUM-CAM-0182,Parel Traffic Camera 7,18.997000,72.839225,"Parel, Mumbai",Flyover approach
+MUM-CAM-0183,Parel Traffic Camera 8,18.998800,72.839225,"Parel, Mumbai",Market stretch
+MUM-CAM-0184,Parel Traffic Camera 9,19.000600,72.839225,"Parel, Mumbai",Transit corridor
+MUM-CAM-0185,Parel Traffic Camera 10,19.002400,72.839225,"Parel, Mumbai",Pedestrian crossing
+MUM-CAM-0186,Parel Traffic Camera 11,18.995200,72.841125,"Parel, Mumbai",Signal junction
+MUM-CAM-0187,Parel Traffic Camera 12,18.997000,72.841125,"Parel, Mumbai",Flyover approach
+MUM-CAM-0188,Parel Traffic Camera 13,18.998800,72.841125,"Parel, Mumbai",Market stretch
+MUM-CAM-0189,Parel Traffic Camera 14,19.000600,72.841125,"Parel, Mumbai",Transit corridor
+MUM-CAM-0190,Parel Traffic Camera 15,19.002400,72.841125,"Parel, Mumbai",Pedestrian crossing
+MUM-CAM-0191,Parel Traffic Camera 16,18.995200,72.843025,"Parel, Mumbai",Signal junction
+MUM-CAM-0192,Parel Traffic Camera 17,18.997000,72.843025,"Parel, Mumbai",Flyover approach
+MUM-CAM-0193,Parel Traffic Camera 18,18.998800,72.843025,"Parel, Mumbai",Market stretch
+MUM-CAM-0194,Parel Traffic Camera 19,19.000600,72.843025,"Parel, Mumbai",Transit corridor
+MUM-CAM-0195,Parel Traffic Camera 20,19.002400,72.843025,"Parel, Mumbai",Pedestrian crossing
+MUM-CAM-0196,Parel Traffic Camera 21,18.995200,72.844925,"Parel, Mumbai",Signal junction
+MUM-CAM-0197,Parel Traffic Camera 22,18.997000,72.844925,"Parel, Mumbai",Flyover approach
+MUM-CAM-0198,Parel Traffic Camera 23,18.998800,72.844925,"Parel, Mumbai",Market stretch
+MUM-CAM-0199,Parel Traffic Camera 24,19.000600,72.844925,"Parel, Mumbai",Transit corridor
+MUM-CAM-0200,Parel Traffic Camera 25,19.002400,72.844925,"Parel, Mumbai",Pedestrian crossing
+MUM-CAM-0201,Worli Traffic Camera 1,19.014400,72.813075,"Worli, Mumbai",Signal junction
+MUM-CAM-0202,Worli Traffic Camera 2,19.016200,72.813075,"Worli, Mumbai",Flyover approach
+MUM-CAM-0203,Worli Traffic Camera 3,19.018000,72.813075,"Worli, Mumbai",Market stretch
+MUM-CAM-0204,Worli Traffic Camera 4,19.019800,72.813075,"Worli, Mumbai",Transit corridor
+MUM-CAM-0205,Worli Traffic Camera 5,19.021600,72.813075,"Worli, Mumbai",Pedestrian crossing
+MUM-CAM-0206,Worli Traffic Camera 6,19.014400,72.814975,"Worli, Mumbai",Signal junction
+MUM-CAM-0207,Worli Traffic Camera 7,19.016200,72.814975,"Worli, Mumbai",Flyover approach
+MUM-CAM-0208,Worli Traffic Camera 8,19.018000,72.814975,"Worli, Mumbai",Market stretch
+MUM-CAM-0209,Worli Traffic Camera 9,19.019800,72.814975,"Worli, Mumbai",Transit corridor
+MUM-CAM-0210,Worli Traffic Camera 10,19.021600,72.814975,"Worli, Mumbai",Pedestrian crossing
+MUM-CAM-0211,Worli Traffic Camera 11,19.014400,72.816875,"Worli, Mumbai",Signal junction
+MUM-CAM-0212,Worli Traffic Camera 12,19.016200,72.816875,"Worli, Mumbai",Flyover approach
+MUM-CAM-0213,Worli Traffic Camera 13,19.018000,72.816875,"Worli, Mumbai",Market stretch
+MUM-CAM-0214,Worli Traffic Camera 14,19.019800,72.816875,"Worli, Mumbai",Transit corridor
+MUM-CAM-0215,Worli Traffic Camera 15,19.021600,72.816875,"Worli, Mumbai",Pedestrian crossing
+MUM-CAM-0216,Worli Traffic Camera 16,19.014400,72.818775,"Worli, Mumbai",Signal junction
+MUM-CAM-0217,Worli Traffic Camera 17,19.016200,72.818775,"Worli, Mumbai",Flyover approach
+MUM-CAM-0218,Worli Traffic Camera 18,19.018000,72.818775,"Worli, Mumbai",Market stretch
+MUM-CAM-0219,Worli Traffic Camera 19,19.019800,72.818775,"Worli, Mumbai",Transit corridor
+MUM-CAM-0220,Worli Traffic Camera 20,19.021600,72.818775,"Worli, Mumbai",Pedestrian crossing
+MUM-CAM-0221,Worli Traffic Camera 21,19.014400,72.820675,"Worli, Mumbai",Signal junction
+MUM-CAM-0222,Worli Traffic Camera 22,19.016200,72.820675,"Worli, Mumbai",Flyover approach
+MUM-CAM-0223,Worli Traffic Camera 23,19.018000,72.820675,"Worli, Mumbai",Market stretch
+MUM-CAM-0224,Worli Traffic Camera 24,19.019800,72.820675,"Worli, Mumbai",Transit corridor
+MUM-CAM-0225,Worli Traffic Camera 25,19.021600,72.820675,"Worli, Mumbai",Pedestrian crossing
+MUM-CAM-0226,Bandra West Traffic Camera 1,19.055600,72.825525,"Bandra West, Mumbai",Signal junction
+MUM-CAM-0227,Bandra West Traffic Camera 2,19.057400,72.825525,"Bandra West, Mumbai",Flyover approach
+MUM-CAM-0228,Bandra West Traffic Camera 3,19.059200,72.825525,"Bandra West, Mumbai",Market stretch
+MUM-CAM-0229,Bandra West Traffic Camera 4,19.061000,72.825525,"Bandra West, Mumbai",Transit corridor
+MUM-CAM-0230,Bandra West Traffic Camera 5,19.062800,72.825525,"Bandra West, Mumbai",Pedestrian crossing
+MUM-CAM-0231,Bandra West Traffic Camera 6,19.055600,72.827425,"Bandra West, Mumbai",Signal junction
+MUM-CAM-0232,Bandra West Traffic Camera 7,19.057400,72.827425,"Bandra West, Mumbai",Flyover approach
+MUM-CAM-0233,Bandra West Traffic Camera 8,19.059200,72.827425,"Bandra West, Mumbai",Market stretch
+MUM-CAM-0234,Bandra West Traffic Camera 9,19.061000,72.827425,"Bandra West, Mumbai",Transit corridor
+MUM-CAM-0235,Bandra West Traffic Camera 10,19.062800,72.827425,"Bandra West, Mumbai",Pedestrian crossing
+MUM-CAM-0236,Bandra West Traffic Camera 11,19.055600,72.829325,"Bandra West, Mumbai",Signal junction
+MUM-CAM-0237,Bandra West Traffic Camera 12,19.057400,72.829325,"Bandra West, Mumbai",Flyover approach
+MUM-CAM-0238,Bandra West Traffic Camera 13,19.059200,72.829325,"Bandra West, Mumbai",Market stretch
+MUM-CAM-0239,Bandra West Traffic Camera 14,19.061000,72.829325,"Bandra West, Mumbai",Transit corridor
+MUM-CAM-0240,Bandra West Traffic Camera 15,19.062800,72.829325,"Bandra West, Mumbai",Pedestrian crossing
+MUM-CAM-0241,Bandra West Traffic Camera 16,19.055600,72.831225,"Bandra West, Mumbai",Signal junction
+MUM-CAM-0242,Bandra West Traffic Camera 17,19.057400,72.831225,"Bandra West, Mumbai",Flyover approach
+MUM-CAM-0243,Bandra West Traffic Camera 18,19.059200,72.831225,"Bandra West, Mumbai",Market stretch
+MUM-CAM-0244,Bandra West Traffic Camera 19,19.061000,72.831225,"Bandra West, Mumbai",Transit corridor
+MUM-CAM-0245,Bandra West Traffic Camera 20,19.062800,72.831225,"Bandra West, Mumbai",Pedestrian crossing
+MUM-CAM-0246,Bandra West Traffic Camera 21,19.055600,72.833125,"Bandra West, Mumbai",Signal junction
+MUM-CAM-0247,Bandra West Traffic Camera 22,19.057400,72.833125,"Bandra West, Mumbai",Flyover approach
+MUM-CAM-0248,Bandra West Traffic Camera 23,19.059200,72.833125,"Bandra West, Mumbai",Market stretch
+MUM-CAM-0249,Bandra West Traffic Camera 24,19.061000,72.833125,"Bandra West, Mumbai",Transit corridor
+MUM-CAM-0250,Bandra West Traffic Camera 25,19.062800,72.833125,"Bandra West, Mumbai",Pedestrian crossing
+MUM-CAM-0251,Bandra East Traffic Camera 1,19.058300,72.836975,"Bandra East, Mumbai",Signal junction
+MUM-CAM-0252,Bandra East Traffic Camera 2,19.060100,72.836975,"Bandra East, Mumbai",Flyover approach
+MUM-CAM-0253,Bandra East Traffic Camera 3,19.061900,72.836975,"Bandra East, Mumbai",Market stretch
+MUM-CAM-0254,Bandra East Traffic Camera 4,19.063700,72.836975,"Bandra East, Mumbai",Transit corridor
+MUM-CAM-0255,Bandra East Traffic Camera 5,19.065500,72.836975,"Bandra East, Mumbai",Pedestrian crossing
+MUM-CAM-0256,Bandra East Traffic Camera 6,19.058300,72.838875,"Bandra East, Mumbai",Signal junction
+MUM-CAM-0257,Bandra East Traffic Camera 7,19.060100,72.838875,"Bandra East, Mumbai",Flyover approach
+MUM-CAM-0258,Bandra East Traffic Camera 8,19.061900,72.838875,"Bandra East, Mumbai",Market stretch
+MUM-CAM-0259,Bandra East Traffic Camera 9,19.063700,72.838875,"Bandra East, Mumbai",Transit corridor
+MUM-CAM-0260,Bandra East Traffic Camera 10,19.065500,72.838875,"Bandra East, Mumbai",Pedestrian crossing
+MUM-CAM-0261,Bandra East Traffic Camera 11,19.058300,72.840775,"Bandra East, Mumbai",Signal junction
+MUM-CAM-0262,Bandra East Traffic Camera 12,19.060100,72.840775,"Bandra East, Mumbai",Flyover approach
+MUM-CAM-0263,Bandra East Traffic Camera 13,19.061900,72.840775,"Bandra East, Mumbai",Market stretch
+MUM-CAM-0264,Bandra East Traffic Camera 14,19.063700,72.840775,"Bandra East, Mumbai",Transit corridor
+MUM-CAM-0265,Bandra East Traffic Camera 15,19.065500,72.840775,"Bandra East, Mumbai",Pedestrian crossing
+MUM-CAM-0266,Bandra East Traffic Camera 16,19.058300,72.842675,"Bandra East, Mumbai",Signal junction
+MUM-CAM-0267,Bandra East Traffic Camera 17,19.060100,72.842675,"Bandra East, Mumbai",Flyover approach
+MUM-CAM-0268,Bandra East Traffic Camera 18,19.061900,72.842675,"Bandra East, Mumbai",Market stretch
+MUM-CAM-0269,Bandra East Traffic Camera 19,19.063700,72.842675,"Bandra East, Mumbai",Transit corridor
+MUM-CAM-0270,Bandra East Traffic Camera 20,19.065500,72.842675,"Bandra East, Mumbai",Pedestrian crossing
+MUM-CAM-0271,Bandra East Traffic Camera 21,19.058300,72.844575,"Bandra East, Mumbai",Signal junction
+MUM-CAM-0272,Bandra East Traffic Camera 22,19.060100,72.844575,"Bandra East, Mumbai",Flyover approach
+MUM-CAM-0273,Bandra East Traffic Camera 23,19.061900,72.844575,"Bandra East, Mumbai",Market stretch
+MUM-CAM-0274,Bandra East Traffic Camera 24,19.063700,72.844575,"Bandra East, Mumbai",Transit corridor
+MUM-CAM-0275,Bandra East Traffic Camera 25,19.065500,72.844575,"Bandra East, Mumbai",Pedestrian crossing
+MUM-CAM-0276,Khar Traffic Camera 1,19.069600,72.831025,"Khar, Mumbai",Signal junction
+MUM-CAM-0277,Khar Traffic Camera 2,19.071400,72.831025,"Khar, Mumbai",Flyover approach
+MUM-CAM-0278,Khar Traffic Camera 3,19.073200,72.831025,"Khar, Mumbai",Market stretch
+MUM-CAM-0279,Khar Traffic Camera 4,19.075000,72.831025,"Khar, Mumbai",Transit corridor
+MUM-CAM-0280,Khar Traffic Camera 5,19.076800,72.831025,"Khar, Mumbai",Pedestrian crossing
+MUM-CAM-0281,Khar Traffic Camera 6,19.069600,72.832925,"Khar, Mumbai",Signal junction
+MUM-CAM-0282,Khar Traffic Camera 7,19.071400,72.832925,"Khar, Mumbai",Flyover approach
+MUM-CAM-0283,Khar Traffic Camera 8,19.073200,72.832925,"Khar, Mumbai",Market stretch
+MUM-CAM-0284,Khar Traffic Camera 9,19.075000,72.832925,"Khar, Mumbai",Transit corridor
+MUM-CAM-0285,Khar Traffic Camera 10,19.076800,72.832925,"Khar, Mumbai",Pedestrian crossing
+MUM-CAM-0286,Khar Traffic Camera 11,19.069600,72.834825,"Khar, Mumbai",Signal junction
+MUM-CAM-0287,Khar Traffic Camera 12,19.071400,72.834825,"Khar, Mumbai",Flyover approach
+MUM-CAM-0288,Khar Traffic Camera 13,19.073200,72.834825,"Khar, Mumbai",Market stretch
+MUM-CAM-0289,Khar Traffic Camera 14,19.075000,72.834825,"Khar, Mumbai",Transit corridor
+MUM-CAM-0290,Khar Traffic Camera 15,19.076800,72.834825,"Khar, Mumbai",Pedestrian crossing
+MUM-CAM-0291,Khar Traffic Camera 16,19.069600,72.836725,"Khar, Mumbai",Signal junction
+MUM-CAM-0292,Khar Traffic Camera 17,19.071400,72.836725,"Khar, Mumbai",Flyover approach
+MUM-CAM-0293,Khar Traffic Camera 18,19.073200,72.836725,"Khar, Mumbai",Market stretch
+MUM-CAM-0294,Khar Traffic Camera 19,19.075000,72.836725,"Khar, Mumbai",Transit corridor
+MUM-CAM-0295,Khar Traffic Camera 20,19.076800,72.836725,"Khar, Mumbai",Pedestrian crossing
+MUM-CAM-0296,Khar Traffic Camera 21,19.069600,72.838625,"Khar, Mumbai",Signal junction
+MUM-CAM-0297,Khar Traffic Camera 22,19.071400,72.838625,"Khar, Mumbai",Flyover approach
+MUM-CAM-0298,Khar Traffic Camera 23,19.073200,72.838625,"Khar, Mumbai",Market stretch
+MUM-CAM-0299,Khar Traffic Camera 24,19.075000,72.838625,"Khar, Mumbai",Transit corridor
+MUM-CAM-0300,Khar Traffic Camera 25,19.076800,72.838625,"Khar, Mumbai",Pedestrian crossing
+MUM-CAM-0301,Santacruz Traffic Camera 1,19.077700,72.836675,"Santacruz, Mumbai",Signal junction
+MUM-CAM-0302,Santacruz Traffic Camera 2,19.079500,72.836675,"Santacruz, Mumbai",Flyover approach
+MUM-CAM-0303,Santacruz Traffic Camera 3,19.081300,72.836675,"Santacruz, Mumbai",Market stretch
+MUM-CAM-0304,Santacruz Traffic Camera 4,19.083100,72.836675,"Santacruz, Mumbai",Transit corridor
+MUM-CAM-0305,Santacruz Traffic Camera 5,19.084900,72.836675,"Santacruz, Mumbai",Pedestrian crossing
+MUM-CAM-0306,Santacruz Traffic Camera 6,19.077700,72.838575,"Santacruz, Mumbai",Signal junction
+MUM-CAM-0307,Santacruz Traffic Camera 7,19.079500,72.838575,"Santacruz, Mumbai",Flyover approach
+MUM-CAM-0308,Santacruz Traffic Camera 8,19.081300,72.838575,"Santacruz, Mumbai",Market stretch
+MUM-CAM-0309,Santacruz Traffic Camera 9,19.083100,72.838575,"Santacruz, Mumbai",Transit corridor
+MUM-CAM-0310,Santacruz Traffic Camera 10,19.084900,72.838575,"Santacruz, Mumbai",Pedestrian crossing
+MUM-CAM-0311,Santacruz Traffic Camera 11,19.077700,72.840475,"Santacruz, Mumbai",Signal junction
+MUM-CAM-0312,Santacruz Traffic Camera 12,19.079500,72.840475,"Santacruz, Mumbai",Flyover approach
+MUM-CAM-0313,Santacruz Traffic Camera 13,19.081300,72.840475,"Santacruz, Mumbai",Market stretch
+MUM-CAM-0314,Santacruz Traffic Camera 14,19.083100,72.840475,"Santacruz, Mumbai",Transit corridor
+MUM-CAM-0315,Santacruz Traffic Camera 15,19.084900,72.840475,"Santacruz, Mumbai",Pedestrian crossing
+MUM-CAM-0316,Santacruz Traffic Camera 16,19.077700,72.842375,"Santacruz, Mumbai",Signal junction
+MUM-CAM-0317,Santacruz Traffic Camera 17,19.079500,72.842375,"Santacruz, Mumbai",Flyover approach
+MUM-CAM-0318,Santacruz Traffic Camera 18,19.081300,72.842375,"Santacruz, Mumbai",Market stretch
+MUM-CAM-0319,Santacruz Traffic Camera 19,19.083100,72.842375,"Santacruz, Mumbai",Transit corridor
+MUM-CAM-0320,Santacruz Traffic Camera 20,19.084900,72.842375,"Santacruz, Mumbai",Pedestrian crossing
+MUM-CAM-0321,Santacruz Traffic Camera 21,19.077700,72.844275,"Santacruz, Mumbai",Signal junction
+MUM-CAM-0322,Santacruz Traffic Camera 22,19.079500,72.844275,"Santacruz, Mumbai",Flyover approach
+MUM-CAM-0323,Santacruz Traffic Camera 23,19.081300,72.844275,"Santacruz, Mumbai",Market stretch
+MUM-CAM-0324,Santacruz Traffic Camera 24,19.083100,72.844275,"Santacruz, Mumbai",Transit corridor
+MUM-CAM-0325,Santacruz Traffic Camera 25,19.084900,72.844275,"Santacruz, Mumbai",Pedestrian crossing
+MUM-CAM-0326,Vile Parle Traffic Camera 1,19.096700,72.839325,"Vile Parle, Mumbai",Signal junction
+MUM-CAM-0327,Vile Parle Traffic Camera 2,19.098500,72.839325,"Vile Parle, Mumbai",Flyover approach
+MUM-CAM-0328,Vile Parle Traffic Camera 3,19.100300,72.839325,"Vile Parle, Mumbai",Market stretch
+MUM-CAM-0329,Vile Parle Traffic Camera 4,19.102100,72.839325,"Vile Parle, Mumbai",Transit corridor
+MUM-CAM-0330,Vile Parle Traffic Camera 5,19.103900,72.839325,"Vile Parle, Mumbai",Pedestrian crossing
+MUM-CAM-0331,Vile Parle Traffic Camera 6,19.096700,72.841225,"Vile Parle, Mumbai",Signal junction
+MUM-CAM-0332,Vile Parle Traffic Camera 7,19.098500,72.841225,"Vile Parle, Mumbai",Flyover approach
+MUM-CAM-0333,Vile Parle Traffic Camera 8,19.100300,72.841225,"Vile Parle, Mumbai",Market stretch
+MUM-CAM-0334,Vile Parle Traffic Camera 9,19.102100,72.841225,"Vile Parle, Mumbai",Transit corridor
+MUM-CAM-0335,Vile Parle Traffic Camera 10,19.103900,72.841225,"Vile Parle, Mumbai",Pedestrian crossing
+MUM-CAM-0336,Vile Parle Traffic Camera 11,19.096700,72.843125,"Vile Parle, Mumbai",Signal junction
+MUM-CAM-0337,Vile Parle Traffic Camera 12,19.098500,72.843125,"Vile Parle, Mumbai",Flyover approach
+MUM-CAM-0338,Vile Parle Traffic Camera 13,19.100300,72.843125,"Vile Parle, Mumbai",Market stretch
+MUM-CAM-0339,Vile Parle Traffic Camera 14,19.102100,72.843125,"Vile Parle, Mumbai",Transit corridor
+MUM-CAM-0340,Vile Parle Traffic Camera 15,19.103900,72.843125,"Vile Parle, Mumbai",Pedestrian crossing
+MUM-CAM-0341,Vile Parle Traffic Camera 16,19.096700,72.845025,"Vile Parle, Mumbai",Signal junction
+MUM-CAM-0342,Vile Parle Traffic Camera 17,19.098500,72.845025,"Vile Parle, Mumbai",Flyover approach
+MUM-CAM-0343,Vile Parle Traffic Camera 18,19.100300,72.845025,"Vile Parle, Mumbai",Market stretch
+MUM-CAM-0344,Vile Parle Traffic Camera 19,19.102100,72.845025,"Vile Parle, Mumbai",Transit corridor
+MUM-CAM-0345,Vile Parle Traffic Camera 20,19.103900,72.845025,"Vile Parle, Mumbai",Pedestrian crossing
+MUM-CAM-0346,Vile Parle Traffic Camera 21,19.096700,72.846925,"Vile Parle, Mumbai",Signal junction
+MUM-CAM-0347,Vile Parle Traffic Camera 22,19.098500,72.846925,"Vile Parle, Mumbai",Flyover approach
+MUM-CAM-0348,Vile Parle Traffic Camera 23,19.100300,72.846925,"Vile Parle, Mumbai",Market stretch
+MUM-CAM-0349,Vile Parle Traffic Camera 24,19.102100,72.846925,"Vile Parle, Mumbai",Transit corridor
+MUM-CAM-0350,Vile Parle Traffic Camera 25,19.103900,72.846925,"Vile Parle, Mumbai",Pedestrian crossing
+MUM-CAM-0351,Andheri West Traffic Camera 1,19.133200,72.823875,"Andheri West, Mumbai",Signal junction
+MUM-CAM-0352,Andheri West Traffic Camera 2,19.135000,72.823875,"Andheri West, Mumbai",Flyover approach
+MUM-CAM-0353,Andheri West Traffic Camera 3,19.136800,72.823875,"Andheri West, Mumbai",Market stretch
+MUM-CAM-0354,Andheri West Traffic Camera 4,19.138600,72.823875,"Andheri West, Mumbai",Transit corridor
+MUM-CAM-0355,Andheri West Traffic Camera 5,19.140400,72.823875,"Andheri West, Mumbai",Pedestrian crossing
+MUM-CAM-0356,Andheri West Traffic Camera 6,19.133200,72.825775,"Andheri West, Mumbai",Signal junction
+MUM-CAM-0357,Andheri West Traffic Camera 7,19.135000,72.825775,"Andheri West, Mumbai",Flyover approach
+MUM-CAM-0358,Andheri West Traffic Camera 8,19.136800,72.825775,"Andheri West, Mumbai",Market stretch
+MUM-CAM-0359,Andheri West Traffic Camera 9,19.138600,72.825775,"Andheri West, Mumbai",Transit corridor
+MUM-CAM-0360,Andheri West Traffic Camera 10,19.140400,72.825775,"Andheri West, Mumbai",Pedestrian crossing
+MUM-CAM-0361,Andheri West Traffic Camera 11,19.133200,72.827675,"Andheri West, Mumbai",Signal junction
+MUM-CAM-0362,Andheri West Traffic Camera 12,19.135000,72.827675,"Andheri West, Mumbai",Flyover approach
+MUM-CAM-0363,Andheri West Traffic Camera 13,19.136800,72.827675,"Andheri West, Mumbai",Market stretch
+MUM-CAM-0364,Andheri West Traffic Camera 14,19.138600,72.827675,"Andheri West, Mumbai",Transit corridor
+MUM-CAM-0365,Andheri West Traffic Camera 15,19.140400,72.827675,"Andheri West, Mumbai",Pedestrian crossing
+MUM-CAM-0366,Andheri West Traffic Camera 16,19.133200,72.829575,"Andheri West, Mumbai",Signal junction
+MUM-CAM-0367,Andheri West Traffic Camera 17,19.135000,72.829575,"Andheri West, Mumbai",Flyover approach
+MUM-CAM-0368,Andheri West Traffic Camera 18,19.136800,72.829575,"Andheri West, Mumbai",Market stretch
+MUM-CAM-0369,Andheri West Traffic Camera 19,19.138600,72.829575,"Andheri West, Mumbai",Transit corridor
+MUM-CAM-0370,Andheri West Traffic Camera 20,19.140400,72.829575,"Andheri West, Mumbai",Pedestrian crossing
+MUM-CAM-0371,Andheri West Traffic Camera 21,19.133200,72.831475,"Andheri West, Mumbai",Signal junction
+MUM-CAM-0372,Andheri West Traffic Camera 22,19.135000,72.831475,"Andheri West, Mumbai",Flyover approach
+MUM-CAM-0373,Andheri West Traffic Camera 23,19.136800,72.831475,"Andheri West, Mumbai",Market stretch
+MUM-CAM-0374,Andheri West Traffic Camera 24,19.138600,72.831475,"Andheri West, Mumbai",Transit corridor
+MUM-CAM-0375,Andheri West Traffic Camera 25,19.140400,72.831475,"Andheri West, Mumbai",Pedestrian crossing
+MUM-CAM-0376,Andheri East Traffic Camera 1,19.109600,72.866425,"Andheri East, Mumbai",Signal junction
+MUM-CAM-0377,Andheri East Traffic Camera 2,19.111400,72.866425,"Andheri East, Mumbai",Flyover approach
+MUM-CAM-0378,Andheri East Traffic Camera 3,19.113200,72.866425,"Andheri East, Mumbai",Market stretch
+MUM-CAM-0379,Andheri East Traffic Camera 4,19.115000,72.866425,"Andheri East, Mumbai",Transit corridor
+MUM-CAM-0380,Andheri East Traffic Camera 5,19.116800,72.866425,"Andheri East, Mumbai",Pedestrian crossing
+MUM-CAM-0381,Andheri East Traffic Camera 6,19.109600,72.868325,"Andheri East, Mumbai",Signal junction
+MUM-CAM-0382,Andheri East Traffic Camera 7,19.111400,72.868325,"Andheri East, Mumbai",Flyover approach
+MUM-CAM-0383,Andheri East Traffic Camera 8,19.113200,72.868325,"Andheri East, Mumbai",Market stretch
+MUM-CAM-0384,Andheri East Traffic Camera 9,19.115000,72.868325,"Andheri East, Mumbai",Transit corridor
+MUM-CAM-0385,Andheri East Traffic Camera 10,19.116800,72.868325,"Andheri East, Mumbai",Pedestrian crossing
+MUM-CAM-0386,Andheri East Traffic Camera 11,19.109600,72.870225,"Andheri East, Mumbai",Signal junction
+MUM-CAM-0387,Andheri East Traffic Camera 12,19.111400,72.870225,"Andheri East, Mumbai",Flyover approach
+MUM-CAM-0388,Andheri East Traffic Camera 13,19.113200,72.870225,"Andheri East, Mumbai",Market stretch
+MUM-CAM-0389,Andheri East Traffic Camera 14,19.115000,72.870225,"Andheri East, Mumbai",Transit corridor
+MUM-CAM-0390,Andheri East Traffic Camera 15,19.116800,72.870225,"Andheri East, Mumbai",Pedestrian crossing
+MUM-CAM-0391,Andheri East Traffic Camera 16,19.109600,72.872125,"Andheri East, Mumbai",Signal junction
+MUM-CAM-0392,Andheri East Traffic Camera 17,19.111400,72.872125,"Andheri East, Mumbai",Flyover approach
+MUM-CAM-0393,Andheri East Traffic Camera 18,19.113200,72.872125,"Andheri East, Mumbai",Market stretch
+MUM-CAM-0394,Andheri East Traffic Camera 19,19.115000,72.872125,"Andheri East, Mumbai",Transit corridor
+MUM-CAM-0395,Andheri East Traffic Camera 20,19.116800,72.872125,"Andheri East, Mumbai",Pedestrian crossing
+MUM-CAM-0396,Andheri East Traffic Camera 21,19.109600,72.874025,"Andheri East, Mumbai",Signal junction
+MUM-CAM-0397,Andheri East Traffic Camera 22,19.111400,72.874025,"Andheri East, Mumbai",Flyover approach
+MUM-CAM-0398,Andheri East Traffic Camera 23,19.113200,72.874025,"Andheri East, Mumbai",Market stretch
+MUM-CAM-0399,Andheri East Traffic Camera 24,19.115000,72.874025,"Andheri East, Mumbai",Transit corridor
+MUM-CAM-0400,Andheri East Traffic Camera 25,19.116800,72.874025,"Andheri East, Mumbai",Pedestrian crossing
+MUM-CAM-0401,Jogeshwari Traffic Camera 1,19.131300,72.843675,"Jogeshwari, Mumbai",Signal junction
+MUM-CAM-0402,Jogeshwari Traffic Camera 2,19.133100,72.843675,"Jogeshwari, Mumbai",Flyover approach
+MUM-CAM-0403,Jogeshwari Traffic Camera 3,19.134900,72.843675,"Jogeshwari, Mumbai",Market stretch
+MUM-CAM-0404,Jogeshwari Traffic Camera 4,19.136700,72.843675,"Jogeshwari, Mumbai",Transit corridor
+MUM-CAM-0405,Jogeshwari Traffic Camera 5,19.138500,72.843675,"Jogeshwari, Mumbai",Pedestrian crossing
+MUM-CAM-0406,Jogeshwari Traffic Camera 6,19.131300,72.845575,"Jogeshwari, Mumbai",Signal junction
+MUM-CAM-0407,Jogeshwari Traffic Camera 7,19.133100,72.845575,"Jogeshwari, Mumbai",Flyover approach
+MUM-CAM-0408,Jogeshwari Traffic Camera 8,19.134900,72.845575,"Jogeshwari, Mumbai",Market stretch
+MUM-CAM-0409,Jogeshwari Traffic Camera 9,19.136700,72.845575,"Jogeshwari, Mumbai",Transit corridor
+MUM-CAM-0410,Jogeshwari Traffic Camera 10,19.138500,72.845575,"Jogeshwari, Mumbai",Pedestrian crossing
+MUM-CAM-0411,Jogeshwari Traffic Camera 11,19.131300,72.847475,"Jogeshwari, Mumbai",Signal junction
+MUM-CAM-0412,Jogeshwari Traffic Camera 12,19.133100,72.847475,"Jogeshwari, Mumbai",Flyover approach
+MUM-CAM-0413,Jogeshwari Traffic Camera 13,19.134900,72.847475,"Jogeshwari, Mumbai",Market stretch
+MUM-CAM-0414,Jogeshwari Traffic Camera 14,19.136700,72.847475,"Jogeshwari, Mumbai",Transit corridor
+MUM-CAM-0415,Jogeshwari Traffic Camera 15,19.138500,72.847475,"Jogeshwari, Mumbai",Pedestrian crossing
+MUM-CAM-0416,Jogeshwari Traffic Camera 16,19.131300,72.849375,"Jogeshwari, Mumbai",Signal junction
+MUM-CAM-0417,Jogeshwari Traffic Camera 17,19.133100,72.849375,"Jogeshwari, Mumbai",Flyover approach
+MUM-CAM-0418,Jogeshwari Traffic Camera 18,19.134900,72.849375,"Jogeshwari, Mumbai",Market stretch
+MUM-CAM-0419,Jogeshwari Traffic Camera 19,19.136700,72.849375,"Jogeshwari, Mumbai",Transit corridor
+MUM-CAM-0420,Jogeshwari Traffic Camera 20,19.138500,72.849375,"Jogeshwari, Mumbai",Pedestrian crossing
+MUM-CAM-0421,Jogeshwari Traffic Camera 21,19.131300,72.851275,"Jogeshwari, Mumbai",Signal junction
+MUM-CAM-0422,Jogeshwari Traffic Camera 22,19.133100,72.851275,"Jogeshwari, Mumbai",Flyover approach
+MUM-CAM-0423,Jogeshwari Traffic Camera 23,19.134900,72.851275,"Jogeshwari, Mumbai",Market stretch
+MUM-CAM-0424,Jogeshwari Traffic Camera 24,19.136700,72.851275,"Jogeshwari, Mumbai",Transit corridor
+MUM-CAM-0425,Jogeshwari Traffic Camera 25,19.138500,72.851275,"Jogeshwari, Mumbai",Pedestrian crossing
+MUM-CAM-0426,Goregaon Traffic Camera 1,19.163100,72.848625,"Goregaon, Mumbai",Signal junction
+MUM-CAM-0427,Goregaon Traffic Camera 2,19.164900,72.848625,"Goregaon, Mumbai",Flyover approach
+MUM-CAM-0428,Goregaon Traffic Camera 3,19.166700,72.848625,"Goregaon, Mumbai",Market stretch
+MUM-CAM-0429,Goregaon Traffic Camera 4,19.168500,72.848625,"Goregaon, Mumbai",Transit corridor
+MUM-CAM-0430,Goregaon Traffic Camera 5,19.170300,72.848625,"Goregaon, Mumbai",Pedestrian crossing
+MUM-CAM-0431,Goregaon Traffic Camera 6,19.163100,72.850525,"Goregaon, Mumbai",Signal junction
+MUM-CAM-0432,Goregaon Traffic Camera 7,19.164900,72.850525,"Goregaon, Mumbai",Flyover approach
+MUM-CAM-0433,Goregaon Traffic Camera 8,19.166700,72.850525,"Goregaon, Mumbai",Market stretch
+MUM-CAM-0434,Goregaon Traffic Camera 9,19.168500,72.850525,"Goregaon, Mumbai",Transit corridor
+MUM-CAM-0435,Goregaon Traffic Camera 10,19.170300,72.850525,"Goregaon, Mumbai",Pedestrian crossing
+MUM-CAM-0436,Goregaon Traffic Camera 11,19.163100,72.852425,"Goregaon, Mumbai",Signal junction
+MUM-CAM-0437,Goregaon Traffic Camera 12,19.164900,72.852425,"Goregaon, Mumbai",Flyover approach
+MUM-CAM-0438,Goregaon Traffic Camera 13,19.166700,72.852425,"Goregaon, Mumbai",Market stretch
+MUM-CAM-0439,Goregaon Traffic Camera 14,19.168500,72.852425,"Goregaon, Mumbai",Transit corridor
+MUM-CAM-0440,Goregaon Traffic Camera 15,19.170300,72.852425,"Goregaon, Mumbai",Pedestrian crossing
+MUM-CAM-0441,Goregaon Traffic Camera 16,19.163100,72.854325,"Goregaon, Mumbai",Signal junction
+MUM-CAM-0442,Goregaon Traffic Camera 17,19.164900,72.854325,"Goregaon, Mumbai",Flyover approach
+MUM-CAM-0443,Goregaon Traffic Camera 18,19.166700,72.854325,"Goregaon, Mumbai",Market stretch
+MUM-CAM-0444,Goregaon Traffic Camera 19,19.168500,72.854325,"Goregaon, Mumbai",Transit corridor
+MUM-CAM-0445,Goregaon Traffic Camera 20,19.170300,72.854325,"Goregaon, Mumbai",Pedestrian crossing
+MUM-CAM-0446,Goregaon Traffic Camera 21,19.163100,72.856225,"Goregaon, Mumbai",Signal junction
+MUM-CAM-0447,Goregaon Traffic Camera 22,19.164900,72.856225,"Goregaon, Mumbai",Flyover approach
+MUM-CAM-0448,Goregaon Traffic Camera 23,19.166700,72.856225,"Goregaon, Mumbai",Market stretch
+MUM-CAM-0449,Goregaon Traffic Camera 24,19.168500,72.856225,"Goregaon, Mumbai",Transit corridor
+MUM-CAM-0450,Goregaon Traffic Camera 25,19.170300,72.856225,"Goregaon, Mumbai",Pedestrian crossing
+MUM-CAM-0451,Malad Traffic Camera 1,19.182400,72.844875,"Malad, Mumbai",Signal junction
+MUM-CAM-0452,Malad Traffic Camera 2,19.184200,72.844875,"Malad, Mumbai",Flyover approach
+MUM-CAM-0453,Malad Traffic Camera 3,19.186000,72.844875,"Malad, Mumbai",Market stretch
+MUM-CAM-0454,Malad Traffic Camera 4,19.187800,72.844875,"Malad, Mumbai",Transit corridor
+MUM-CAM-0455,Malad Traffic Camera 5,19.189600,72.844875,"Malad, Mumbai",Pedestrian crossing
+MUM-CAM-0456,Malad Traffic Camera 6,19.182400,72.846775,"Malad, Mumbai",Signal junction
+MUM-CAM-0457,Malad Traffic Camera 7,19.184200,72.846775,"Malad, Mumbai",Flyover approach
+MUM-CAM-0458,Malad Traffic Camera 8,19.186000,72.846775,"Malad, Mumbai",Market stretch
+MUM-CAM-0459,Malad Traffic Camera 9,19.187800,72.846775,"Malad, Mumbai",Transit corridor
+MUM-CAM-0460,Malad Traffic Camera 10,19.189600,72.846775,"Malad, Mumbai",Pedestrian crossing
+MUM-CAM-0461,Malad Traffic Camera 11,19.182400,72.848675,"Malad, Mumbai",Signal junction
+MUM-CAM-0462,Malad Traffic Camera 12,19.184200,72.848675,"Malad, Mumbai",Flyover approach
+MUM-CAM-0463,Malad Traffic Camera 13,19.186000,72.848675,"Malad, Mumbai",Market stretch
+MUM-CAM-0464,Malad Traffic Camera 14,19.187800,72.848675,"Malad, Mumbai",Transit corridor
+MUM-CAM-0465,Malad Traffic Camera 15,19.189600,72.848675,"Malad, Mumbai",Pedestrian crossing
+MUM-CAM-0466,Malad Traffic Camera 16,19.182400,72.850575,"Malad, Mumbai",Signal junction
+MUM-CAM-0467,Malad Traffic Camera 17,19.184200,72.850575,"Malad, Mumbai",Flyover approach
+MUM-CAM-0468,Malad Traffic Camera 18,19.186000,72.850575,"Malad, Mumbai",Market stretch
+MUM-CAM-0469,Malad Traffic Camera 19,19.187800,72.850575,"Malad, Mumbai",Transit corridor
+MUM-CAM-0470,Malad Traffic Camera 20,19.189600,72.850575,"Malad, Mumbai",Pedestrian crossing
+MUM-CAM-0471,Malad Traffic Camera 21,19.182400,72.852475,"Malad, Mumbai",Signal junction
+MUM-CAM-0472,Malad Traffic Camera 22,19.184200,72.852475,"Malad, Mumbai",Flyover approach
+MUM-CAM-0473,Malad Traffic Camera 23,19.186000,72.852475,"Malad, Mumbai",Market stretch
+MUM-CAM-0474,Malad Traffic Camera 24,19.187800,72.852475,"Malad, Mumbai",Transit corridor
+MUM-CAM-0475,Malad Traffic Camera 25,19.189600,72.852475,"Malad, Mumbai",Pedestrian crossing
+MUM-CAM-0476,Kandivali Traffic Camera 1,19.198900,72.847825,"Kandivali, Mumbai",Signal junction
+MUM-CAM-0477,Kandivali Traffic Camera 2,19.200700,72.847825,"Kandivali, Mumbai",Flyover approach
+MUM-CAM-0478,Kandivali Traffic Camera 3,19.202500,72.847825,"Kandivali, Mumbai",Market stretch
+MUM-CAM-0479,Kandivali Traffic Camera 4,19.204300,72.847825,"Kandivali, Mumbai",Transit corridor
+MUM-CAM-0480,Kandivali Traffic Camera 5,19.206100,72.847825,"Kandivali, Mumbai",Pedestrian crossing
+MUM-CAM-0481,Kandivali Traffic Camera 6,19.198900,72.849725,"Kandivali, Mumbai",Signal junction
+MUM-CAM-0482,Kandivali Traffic Camera 7,19.200700,72.849725,"Kandivali, Mumbai",Flyover approach
+MUM-CAM-0483,Kandivali Traffic Camera 8,19.202500,72.849725,"Kandivali, Mumbai",Market stretch
+MUM-CAM-0484,Kandivali Traffic Camera 9,19.204300,72.849725,"Kandivali, Mumbai",Transit corridor
+MUM-CAM-0485,Kandivali Traffic Camera 10,19.206100,72.849725,"Kandivali, Mumbai",Pedestrian crossing
+MUM-CAM-0486,Kandivali Traffic Camera 11,19.198900,72.851625,"Kandivali, Mumbai",Signal junction
+MUM-CAM-0487,Kandivali Traffic Camera 12,19.200700,72.851625,"Kandivali, Mumbai",Flyover approach
+MUM-CAM-0488,Kandivali Traffic Camera 13,19.202500,72.851625,"Kandivali, Mumbai",Market stretch
+MUM-CAM-0489,Kandivali Traffic Camera 14,19.204300,72.851625,"Kandivali, Mumbai",Transit corridor
+MUM-CAM-0490,Kandivali Traffic Camera 15,19.206100,72.851625,"Kandivali, Mumbai",Pedestrian crossing
+MUM-CAM-0491,Kandivali Traffic Camera 16,19.198900,72.853525,"Kandivali, Mumbai",Signal junction
+MUM-CAM-0492,Kandivali Traffic Camera 17,19.200700,72.853525,"Kandivali, Mumbai",Flyover approach
+MUM-CAM-0493,Kandivali Traffic Camera 18,19.202500,72.853525,"Kandivali, Mumbai",Market stretch
+MUM-CAM-0494,Kandivali Traffic Camera 19,19.204300,72.853525,"Kandivali, Mumbai",Transit corridor
+MUM-CAM-0495,Kandivali Traffic Camera 20,19.206100,72.853525,"Kandivali, Mumbai",Pedestrian crossing
+MUM-CAM-0496,Kandivali Traffic Camera 21,19.198900,72.855425,"Kandivali, Mumbai",Signal junction
+MUM-CAM-0497,Kandivali Traffic Camera 22,19.200700,72.855425,"Kandivali, Mumbai",Flyover approach
+MUM-CAM-0498,Kandivali Traffic Camera 23,19.202500,72.855425,"Kandivali, Mumbai",Market stretch
+MUM-CAM-0499,Kandivali Traffic Camera 24,19.204300,72.855425,"Kandivali, Mumbai",Transit corridor
+MUM-CAM-0500,Kandivali Traffic Camera 25,19.206100,72.855425,"Kandivali, Mumbai",Pedestrian crossing
+MUM-CAM-0501,Borivali Traffic Camera 1,19.225800,72.852675,"Borivali, Mumbai",Signal junction
+MUM-CAM-0502,Borivali Traffic Camera 2,19.227600,72.852675,"Borivali, Mumbai",Flyover approach
+MUM-CAM-0503,Borivali Traffic Camera 3,19.229400,72.852675,"Borivali, Mumbai",Market stretch
+MUM-CAM-0504,Borivali Traffic Camera 4,19.231200,72.852675,"Borivali, Mumbai",Transit corridor
+MUM-CAM-0505,Borivali Traffic Camera 5,19.233000,72.852675,"Borivali, Mumbai",Pedestrian crossing
+MUM-CAM-0506,Borivali Traffic Camera 6,19.225800,72.854575,"Borivali, Mumbai",Signal junction
+MUM-CAM-0507,Borivali Traffic Camera 7,19.227600,72.854575,"Borivali, Mumbai",Flyover approach
+MUM-CAM-0508,Borivali Traffic Camera 8,19.229400,72.854575,"Borivali, Mumbai",Market stretch
+MUM-CAM-0509,Borivali Traffic Camera 9,19.231200,72.854575,"Borivali, Mumbai",Transit corridor
+MUM-CAM-0510,Borivali Traffic Camera 10,19.233000,72.854575,"Borivali, Mumbai",Pedestrian crossing
+MUM-CAM-0511,Borivali Traffic Camera 11,19.225800,72.856475,"Borivali, Mumbai",Signal junction
+MUM-CAM-0512,Borivali Traffic Camera 12,19.227600,72.856475,"Borivali, Mumbai",Flyover approach
+MUM-CAM-0513,Borivali Traffic Camera 13,19.229400,72.856475,"Borivali, Mumbai",Market stretch
+MUM-CAM-0514,Borivali Traffic Camera 14,19.231200,72.856475,"Borivali, Mumbai",Transit corridor
+MUM-CAM-0515,Borivali Traffic Camera 15,19.233000,72.856475,"Borivali, Mumbai",Pedestrian crossing
+MUM-CAM-0516,Borivali Traffic Camera 16,19.225800,72.858375,"Borivali, Mumbai",Signal junction
+MUM-CAM-0517,Borivali Traffic Camera 17,19.227600,72.858375,"Borivali, Mumbai",Flyover approach
+MUM-CAM-0518,Borivali Traffic Camera 18,19.229400,72.858375,"Borivali, Mumbai",Market stretch
+MUM-CAM-0519,Borivali Traffic Camera 19,19.231200,72.858375,"Borivali, Mumbai",Transit corridor
+MUM-CAM-0520,Borivali Traffic Camera 20,19.233000,72.858375,"Borivali, Mumbai",Pedestrian crossing
+MUM-CAM-0521,Borivali Traffic Camera 21,19.225800,72.860275,"Borivali, Mumbai",Signal junction
+MUM-CAM-0522,Borivali Traffic Camera 22,19.227600,72.860275,"Borivali, Mumbai",Flyover approach
+MUM-CAM-0523,Borivali Traffic Camera 23,19.229400,72.860275,"Borivali, Mumbai",Market stretch
+MUM-CAM-0524,Borivali Traffic Camera 24,19.231200,72.860275,"Borivali, Mumbai",Transit corridor
+MUM-CAM-0525,Borivali Traffic Camera 25,19.233000,72.860275,"Borivali, Mumbai",Pedestrian crossing
+MUM-CAM-0526,Dahisar Traffic Camera 1,19.246100,72.855025,"Dahisar, Mumbai",Signal junction
+MUM-CAM-0527,Dahisar Traffic Camera 2,19.247900,72.855025,"Dahisar, Mumbai",Flyover approach
+MUM-CAM-0528,Dahisar Traffic Camera 3,19.249700,72.855025,"Dahisar, Mumbai",Market stretch
+MUM-CAM-0529,Dahisar Traffic Camera 4,19.251500,72.855025,"Dahisar, Mumbai",Transit corridor
+MUM-CAM-0530,Dahisar Traffic Camera 5,19.253300,72.855025,"Dahisar, Mumbai",Pedestrian crossing
+MUM-CAM-0531,Dahisar Traffic Camera 6,19.246100,72.856925,"Dahisar, Mumbai",Signal junction
+MUM-CAM-0532,Dahisar Traffic Camera 7,19.247900,72.856925,"Dahisar, Mumbai",Flyover approach
+MUM-CAM-0533,Dahisar Traffic Camera 8,19.249700,72.856925,"Dahisar, Mumbai",Market stretch
+MUM-CAM-0534,Dahisar Traffic Camera 9,19.251500,72.856925,"Dahisar, Mumbai",Transit corridor
+MUM-CAM-0535,Dahisar Traffic Camera 10,19.253300,72.856925,"Dahisar, Mumbai",Pedestrian crossing
+MUM-CAM-0536,Dahisar Traffic Camera 11,19.246100,72.858825,"Dahisar, Mumbai",Signal junction
+MUM-CAM-0537,Dahisar Traffic Camera 12,19.247900,72.858825,"Dahisar, Mumbai",Flyover approach
+MUM-CAM-0538,Dahisar Traffic Camera 13,19.249700,72.858825,"Dahisar, Mumbai",Market stretch
+MUM-CAM-0539,Dahisar Traffic Camera 14,19.251500,72.858825,"Dahisar, Mumbai",Transit corridor
+MUM-CAM-0540,Dahisar Traffic Camera 15,19.253300,72.858825,"Dahisar, Mumbai",Pedestrian crossing
+MUM-CAM-0541,Dahisar Traffic Camera 16,19.246100,72.860725,"Dahisar, Mumbai",Signal junction
+MUM-CAM-0542,Dahisar Traffic Camera 17,19.247900,72.860725,"Dahisar, Mumbai",Flyover approach
+MUM-CAM-0543,Dahisar Traffic Camera 18,19.249700,72.860725,"Dahisar, Mumbai",Market stretch
+MUM-CAM-0544,Dahisar Traffic Camera 19,19.251500,72.860725,"Dahisar, Mumbai",Transit corridor
+MUM-CAM-0545,Dahisar Traffic Camera 20,19.253300,72.860725,"Dahisar, Mumbai",Pedestrian crossing
+MUM-CAM-0546,Dahisar Traffic Camera 21,19.246100,72.862625,"Dahisar, Mumbai",Signal junction
+MUM-CAM-0547,Dahisar Traffic Camera 22,19.247900,72.862625,"Dahisar, Mumbai",Flyover approach
+MUM-CAM-0548,Dahisar Traffic Camera 23,19.249700,72.862625,"Dahisar, Mumbai",Market stretch
+MUM-CAM-0549,Dahisar Traffic Camera 24,19.251500,72.862625,"Dahisar, Mumbai",Transit corridor
+MUM-CAM-0550,Dahisar Traffic Camera 25,19.253300,72.862625,"Dahisar, Mumbai",Pedestrian crossing
+MUM-CAM-0551,Kurla Traffic Camera 1,19.069000,72.878975,"Kurla, Mumbai",Signal junction
+MUM-CAM-0552,Kurla Traffic Camera 2,19.070800,72.878975,"Kurla, Mumbai",Flyover approach
+MUM-CAM-0553,Kurla Traffic Camera 3,19.072600,72.878975,"Kurla, Mumbai",Market stretch
+MUM-CAM-0554,Kurla Traffic Camera 4,19.074400,72.878975,"Kurla, Mumbai",Transit corridor
+MUM-CAM-0555,Kurla Traffic Camera 5,19.076200,72.878975,"Kurla, Mumbai",Pedestrian crossing
+MUM-CAM-0556,Kurla Traffic Camera 6,19.069000,72.880875,"Kurla, Mumbai",Signal junction
+MUM-CAM-0557,Kurla Traffic Camera 7,19.070800,72.880875,"Kurla, Mumbai",Flyover approach
+MUM-CAM-0558,Kurla Traffic Camera 8,19.072600,72.880875,"Kurla, Mumbai",Market stretch
+MUM-CAM-0559,Kurla Traffic Camera 9,19.074400,72.880875,"Kurla, Mumbai",Transit corridor
+MUM-CAM-0560,Kurla Traffic Camera 10,19.076200,72.880875,"Kurla, Mumbai",Pedestrian crossing
+MUM-CAM-0561,Kurla Traffic Camera 11,19.069000,72.882775,"Kurla, Mumbai",Signal junction
+MUM-CAM-0562,Kurla Traffic Camera 12,19.070800,72.882775,"Kurla, Mumbai",Flyover approach
+MUM-CAM-0563,Kurla Traffic Camera 13,19.072600,72.882775,"Kurla, Mumbai",Market stretch
+MUM-CAM-0564,Kurla Traffic Camera 14,19.074400,72.882775,"Kurla, Mumbai",Transit corridor
+MUM-CAM-0565,Kurla Traffic Camera 15,19.076200,72.882775,"Kurla, Mumbai",Pedestrian crossing
+MUM-CAM-0566,Kurla Traffic Camera 16,19.069000,72.884675,"Kurla, Mumbai",Signal junction
+MUM-CAM-0567,Kurla Traffic Camera 17,19.070800,72.884675,"Kurla, Mumbai",Flyover approach
+MUM-CAM-0568,Kurla Traffic Camera 18,19.072600,72.884675,"Kurla, Mumbai",Market stretch
+MUM-CAM-0569,Kurla Traffic Camera 19,19.074400,72.884675,"Kurla, Mumbai",Transit corridor
+MUM-CAM-0570,Kurla Traffic Camera 20,19.076200,72.884675,"Kurla, Mumbai",Pedestrian crossing
+MUM-CAM-0571,Kurla Traffic Camera 21,19.069000,72.886575,"Kurla, Mumbai",Signal junction
+MUM-CAM-0572,Kurla Traffic Camera 22,19.070800,72.886575,"Kurla, Mumbai",Flyover approach
+MUM-CAM-0573,Kurla Traffic Camera 23,19.072600,72.886575,"Kurla, Mumbai",Market stretch
+MUM-CAM-0574,Kurla Traffic Camera 24,19.074400,72.886575,"Kurla, Mumbai",Transit corridor
+MUM-CAM-0575,Kurla Traffic Camera 25,19.076200,72.886575,"Kurla, Mumbai",Pedestrian crossing
+MUM-CAM-0576,Chembur Traffic Camera 1,19.049000,72.897225,"Chembur, Mumbai",Signal junction
+MUM-CAM-0577,Chembur Traffic Camera 2,19.050800,72.897225,"Chembur, Mumbai",Flyover approach
+MUM-CAM-0578,Chembur Traffic Camera 3,19.052600,72.897225,"Chembur, Mumbai",Market stretch
+MUM-CAM-0579,Chembur Traffic Camera 4,19.054400,72.897225,"Chembur, Mumbai",Transit corridor
+MUM-CAM-0580,Chembur Traffic Camera 5,19.056200,72.897225,"Chembur, Mumbai",Pedestrian crossing
+MUM-CAM-0581,Chembur Traffic Camera 6,19.049000,72.899125,"Chembur, Mumbai",Signal junction
+MUM-CAM-0582,Chembur Traffic Camera 7,19.050800,72.899125,"Chembur, Mumbai",Flyover approach
+MUM-CAM-0583,Chembur Traffic Camera 8,19.052600,72.899125,"Chembur, Mumbai",Market stretch
+MUM-CAM-0584,Chembur Traffic Camera 9,19.054400,72.899125,"Chembur, Mumbai",Transit corridor
+MUM-CAM-0585,Chembur Traffic Camera 10,19.056200,72.899125,"Chembur, Mumbai",Pedestrian crossing
+MUM-CAM-0586,Chembur Traffic Camera 11,19.049000,72.901025,"Chembur, Mumbai",Signal junction
+MUM-CAM-0587,Chembur Traffic Camera 12,19.050800,72.901025,"Chembur, Mumbai",Flyover approach
+MUM-CAM-0588,Chembur Traffic Camera 13,19.052600,72.901025,"Chembur, Mumbai",Market stretch
+MUM-CAM-0589,Chembur Traffic Camera 14,19.054400,72.901025,"Chembur, Mumbai",Transit corridor
+MUM-CAM-0590,Chembur Traffic Camera 15,19.056200,72.901025,"Chembur, Mumbai",Pedestrian crossing
+MUM-CAM-0591,Chembur Traffic Camera 16,19.049000,72.902925,"Chembur, Mumbai",Signal junction
+MUM-CAM-0592,Chembur Traffic Camera 17,19.050800,72.902925,"Chembur, Mumbai",Flyover approach
+MUM-CAM-0593,Chembur Traffic Camera 18,19.052600,72.902925,"Chembur, Mumbai",Market stretch
+MUM-CAM-0594,Chembur Traffic Camera 19,19.054400,72.902925,"Chembur, Mumbai",Transit corridor
+MUM-CAM-0595,Chembur Traffic Camera 20,19.056200,72.902925,"Chembur, Mumbai",Pedestrian crossing
+MUM-CAM-0596,Chembur Traffic Camera 21,19.049000,72.904825,"Chembur, Mumbai",Signal junction
+MUM-CAM-0597,Chembur Traffic Camera 22,19.050800,72.904825,"Chembur, Mumbai",Flyover approach
+MUM-CAM-0598,Chembur Traffic Camera 23,19.052600,72.904825,"Chembur, Mumbai",Market stretch
+MUM-CAM-0599,Chembur Traffic Camera 24,19.054400,72.904825,"Chembur, Mumbai",Transit corridor
+MUM-CAM-0600,Chembur Traffic Camera 25,19.056200,72.904825,"Chembur, Mumbai",Pedestrian crossing
+MUM-CAM-0601,Ghatkopar Traffic Camera 1,19.081600,72.903775,"Ghatkopar, Mumbai",Signal junction
+MUM-CAM-0602,Ghatkopar Traffic Camera 2,19.083400,72.903775,"Ghatkopar, Mumbai",Flyover approach
+MUM-CAM-0603,Ghatkopar Traffic Camera 3,19.085200,72.903775,"Ghatkopar, Mumbai",Market stretch
+MUM-CAM-0604,Ghatkopar Traffic Camera 4,19.087000,72.903775,"Ghatkopar, Mumbai",Transit corridor
+MUM-CAM-0605,Ghatkopar Traffic Camera 5,19.088800,72.903775,"Ghatkopar, Mumbai",Pedestrian crossing
+MUM-CAM-0606,Ghatkopar Traffic Camera 6,19.081600,72.905675,"Ghatkopar, Mumbai",Signal junction
+MUM-CAM-0607,Ghatkopar Traffic Camera 7,19.083400,72.905675,"Ghatkopar, Mumbai",Flyover approach
+MUM-CAM-0608,Ghatkopar Traffic Camera 8,19.085200,72.905675,"Ghatkopar, Mumbai",Market stretch
+MUM-CAM-0609,Ghatkopar Traffic Camera 9,19.087000,72.905675,"Ghatkopar, Mumbai",Transit corridor
+MUM-CAM-0610,Ghatkopar Traffic Camera 10,19.088800,72.905675,"Ghatkopar, Mumbai",Pedestrian crossing
+MUM-CAM-0611,Ghatkopar Traffic Camera 11,19.081600,72.907575,"Ghatkopar, Mumbai",Signal junction
+MUM-CAM-0612,Ghatkopar Traffic Camera 12,19.083400,72.907575,"Ghatkopar, Mumbai",Flyover approach
+MUM-CAM-0613,Ghatkopar Traffic Camera 13,19.085200,72.907575,"Ghatkopar, Mumbai",Market stretch
+MUM-CAM-0614,Ghatkopar Traffic Camera 14,19.087000,72.907575,"Ghatkopar, Mumbai",Transit corridor
+MUM-CAM-0615,Ghatkopar Traffic Camera 15,19.088800,72.907575,"Ghatkopar, Mumbai",Pedestrian crossing
+MUM-CAM-0616,Ghatkopar Traffic Camera 16,19.081600,72.909475,"Ghatkopar, Mumbai",Signal junction
+MUM-CAM-0617,Ghatkopar Traffic Camera 17,19.083400,72.909475,"Ghatkopar, Mumbai",Flyover approach
+MUM-CAM-0618,Ghatkopar Traffic Camera 18,19.085200,72.909475,"Ghatkopar, Mumbai",Market stretch
+MUM-CAM-0619,Ghatkopar Traffic Camera 19,19.087000,72.909475,"Ghatkopar, Mumbai",Transit corridor
+MUM-CAM-0620,Ghatkopar Traffic Camera 20,19.088800,72.909475,"Ghatkopar, Mumbai",Pedestrian crossing
+MUM-CAM-0621,Ghatkopar Traffic Camera 21,19.081600,72.911375,"Ghatkopar, Mumbai",Signal junction
+MUM-CAM-0622,Ghatkopar Traffic Camera 22,19.083400,72.911375,"Ghatkopar, Mumbai",Flyover approach
+MUM-CAM-0623,Ghatkopar Traffic Camera 23,19.085200,72.911375,"Ghatkopar, Mumbai",Market stretch
+MUM-CAM-0624,Ghatkopar Traffic Camera 24,19.087000,72.911375,"Ghatkopar, Mumbai",Transit corridor
+MUM-CAM-0625,Ghatkopar Traffic Camera 25,19.088800,72.911375,"Ghatkopar, Mumbai",Pedestrian crossing
+MUM-CAM-0626,Vikhroli Traffic Camera 1,19.107900,72.924925,"Vikhroli, Mumbai",Signal junction
+MUM-CAM-0627,Vikhroli Traffic Camera 2,19.109700,72.924925,"Vikhroli, Mumbai",Flyover approach
+MUM-CAM-0628,Vikhroli Traffic Camera 3,19.111500,72.924925,"Vikhroli, Mumbai",Market stretch
+MUM-CAM-0629,Vikhroli Traffic Camera 4,19.113300,72.924925,"Vikhroli, Mumbai",Transit corridor
+MUM-CAM-0630,Vikhroli Traffic Camera 5,19.115100,72.924925,"Vikhroli, Mumbai",Pedestrian crossing
+MUM-CAM-0631,Vikhroli Traffic Camera 6,19.107900,72.926825,"Vikhroli, Mumbai",Signal junction
+MUM-CAM-0632,Vikhroli Traffic Camera 7,19.109700,72.926825,"Vikhroli, Mumbai",Flyover approach
+MUM-CAM-0633,Vikhroli Traffic Camera 8,19.111500,72.926825,"Vikhroli, Mumbai",Market stretch
+MUM-CAM-0634,Vikhroli Traffic Camera 9,19.113300,72.926825,"Vikhroli, Mumbai",Transit corridor
+MUM-CAM-0635,Vikhroli Traffic Camera 10,19.115100,72.926825,"Vikhroli, Mumbai",Pedestrian crossing
+MUM-CAM-0636,Vikhroli Traffic Camera 11,19.107900,72.928725,"Vikhroli, Mumbai",Signal junction
+MUM-CAM-0637,Vikhroli Traffic Camera 12,19.109700,72.928725,"Vikhroli, Mumbai",Flyover approach
+MUM-CAM-0638,Vikhroli Traffic Camera 13,19.111500,72.928725,"Vikhroli, Mumbai",Market stretch
+MUM-CAM-0639,Vikhroli Traffic Camera 14,19.113300,72.928725,"Vikhroli, Mumbai",Transit corridor
+MUM-CAM-0640,Vikhroli Traffic Camera 15,19.115100,72.928725,"Vikhroli, Mumbai",Pedestrian crossing
+MUM-CAM-0641,Vikhroli Traffic Camera 16,19.107900,72.930625,"Vikhroli, Mumbai",Signal junction
+MUM-CAM-0642,Vikhroli Traffic Camera 17,19.109700,72.930625,"Vikhroli, Mumbai",Flyover approach
+MUM-CAM-0643,Vikhroli Traffic Camera 18,19.111500,72.930625,"Vikhroli, Mumbai",Market stretch
+MUM-CAM-0644,Vikhroli Traffic Camera 19,19.113300,72.930625,"Vikhroli, Mumbai",Transit corridor
+MUM-CAM-0645,Vikhroli Traffic Camera 20,19.115100,72.930625,"Vikhroli, Mumbai",Pedestrian crossing
+MUM-CAM-0646,Vikhroli Traffic Camera 21,19.107900,72.932525,"Vikhroli, Mumbai",Signal junction
+MUM-CAM-0647,Vikhroli Traffic Camera 22,19.109700,72.932525,"Vikhroli, Mumbai",Flyover approach
+MUM-CAM-0648,Vikhroli Traffic Camera 23,19.111500,72.932525,"Vikhroli, Mumbai",Market stretch
+MUM-CAM-0649,Vikhroli Traffic Camera 24,19.113300,72.932525,"Vikhroli, Mumbai",Transit corridor
+MUM-CAM-0650,Vikhroli Traffic Camera 25,19.115100,72.932525,"Vikhroli, Mumbai",Pedestrian crossing
+MUM-CAM-0651,Powai Traffic Camera 1,19.114400,72.902375,"Powai, Mumbai",Signal junction
+MUM-CAM-0652,Powai Traffic Camera 2,19.116200,72.902375,"Powai, Mumbai",Flyover approach
+MUM-CAM-0653,Powai Traffic Camera 3,19.118000,72.902375,"Powai, Mumbai",Market stretch
+MUM-CAM-0654,Powai Traffic Camera 4,19.119800,72.902375,"Powai, Mumbai",Transit corridor
+MUM-CAM-0655,Powai Traffic Camera 5,19.121600,72.902375,"Powai, Mumbai",Pedestrian crossing
+MUM-CAM-0656,Powai Traffic Camera 6,19.114400,72.904275,"Powai, Mumbai",Signal junction
+MUM-CAM-0657,Powai Traffic Camera 7,19.116200,72.904275,"Powai, Mumbai",Flyover approach
+MUM-CAM-0658,Powai Traffic Camera 8,19.118000,72.904275,"Powai, Mumbai",Market stretch
+MUM-CAM-0659,Powai Traffic Camera 9,19.119800,72.904275,"Powai, Mumbai",Transit corridor
+MUM-CAM-0660,Powai Traffic Camera 10,19.121600,72.904275,"Powai, Mumbai",Pedestrian crossing
+MUM-CAM-0661,Powai Traffic Camera 11,19.114400,72.906175,"Powai, Mumbai",Signal junction
+MUM-CAM-0662,Powai Traffic Camera 12,19.116200,72.906175,"Powai, Mumbai",Flyover approach
+MUM-CAM-0663,Powai Traffic Camera 13,19.118000,72.906175,"Powai, Mumbai",Market stretch
+MUM-CAM-0664,Powai Traffic Camera 14,19.119800,72.906175,"Powai, Mumbai",Transit corridor
+MUM-CAM-0665,Powai Traffic Camera 15,19.121600,72.906175,"Powai, Mumbai",Pedestrian crossing
+MUM-CAM-0666,Powai Traffic Camera 16,19.114400,72.908075,"Powai, Mumbai",Signal junction
+MUM-CAM-0667,Powai Traffic Camera 17,19.116200,72.908075,"Powai, Mumbai",Flyover approach
+MUM-CAM-0668,Powai Traffic Camera 18,19.118000,72.908075,"Powai, Mumbai",Market stretch
+MUM-CAM-0669,Powai Traffic Camera 19,19.119800,72.908075,"Powai, Mumbai",Transit corridor
+MUM-CAM-0670,Powai Traffic Camera 20,19.121600,72.908075,"Powai, Mumbai",Pedestrian crossing
+MUM-CAM-0671,Powai Traffic Camera 21,19.114400,72.909975,"Powai, Mumbai",Signal junction
+MUM-CAM-0672,Powai Traffic Camera 22,19.116200,72.909975,"Powai, Mumbai",Flyover approach
+MUM-CAM-0673,Powai Traffic Camera 23,19.118000,72.909975,"Powai, Mumbai",Market stretch
+MUM-CAM-0674,Powai Traffic Camera 24,19.119800,72.909975,"Powai, Mumbai",Transit corridor
+MUM-CAM-0675,Powai Traffic Camera 25,19.121600,72.909975,"Powai, Mumbai",Pedestrian crossing
+MUM-CAM-0676,Mulund Traffic Camera 1,19.168600,72.952825,"Mulund, Mumbai",Signal junction
+MUM-CAM-0677,Mulund Traffic Camera 2,19.170400,72.952825,"Mulund, Mumbai",Flyover approach
+MUM-CAM-0678,Mulund Traffic Camera 3,19.172200,72.952825,"Mulund, Mumbai",Market stretch
+MUM-CAM-0679,Mulund Traffic Camera 4,19.174000,72.952825,"Mulund, Mumbai",Transit corridor
+MUM-CAM-0680,Mulund Traffic Camera 5,19.175800,72.952825,"Mulund, Mumbai",Pedestrian crossing
+MUM-CAM-0681,Mulund Traffic Camera 6,19.168600,72.954725,"Mulund, Mumbai",Signal junction
+MUM-CAM-0682,Mulund Traffic Camera 7,19.170400,72.954725,"Mulund, Mumbai",Flyover approach
+MUM-CAM-0683,Mulund Traffic Camera 8,19.172200,72.954725,"Mulund, Mumbai",Market stretch
+MUM-CAM-0684,Mulund Traffic Camera 9,19.174000,72.954725,"Mulund, Mumbai",Transit corridor
+MUM-CAM-0685,Mulund Traffic Camera 10,19.175800,72.954725,"Mulund, Mumbai",Pedestrian crossing
+MUM-CAM-0686,Mulund Traffic Camera 11,19.168600,72.956625,"Mulund, Mumbai",Signal junction
+MUM-CAM-0687,Mulund Traffic Camera 12,19.170400,72.956625,"Mulund, Mumbai",Flyover approach
+MUM-CAM-0688,Mulund Traffic Camera 13,19.172200,72.956625,"Mulund, Mumbai",Market stretch
+MUM-CAM-0689,Mulund Traffic Camera 14,19.174000,72.956625,"Mulund, Mumbai",Transit corridor
+MUM-CAM-0690,Mulund Traffic Camera 15,19.175800,72.956625,"Mulund, Mumbai",Pedestrian crossing
+MUM-CAM-0691,Mulund Traffic Camera 16,19.168600,72.958525,"Mulund, Mumbai",Signal junction
+MUM-CAM-0692,Mulund Traffic Camera 17,19.170400,72.958525,"Mulund, Mumbai",Flyover approach
+MUM-CAM-0693,Mulund Traffic Camera 18,19.172200,72.958525,"Mulund, Mumbai",Market stretch
+MUM-CAM-0694,Mulund Traffic Camera 19,19.174000,72.958525,"Mulund, Mumbai",Transit corridor
+MUM-CAM-0695,Mulund Traffic Camera 20,19.175800,72.958525,"Mulund, Mumbai",Pedestrian crossing
+MUM-CAM-0696,Mulund Traffic Camera 21,19.168600,72.960425,"Mulund, Mumbai",Signal junction
+MUM-CAM-0697,Mulund Traffic Camera 22,19.170400,72.960425,"Mulund, Mumbai",Flyover approach
+MUM-CAM-0698,Mulund Traffic Camera 23,19.172200,72.960425,"Mulund, Mumbai",Market stretch
+MUM-CAM-0699,Mulund Traffic Camera 24,19.174000,72.960425,"Mulund, Mumbai",Transit corridor
+MUM-CAM-0700,Mulund Traffic Camera 25,19.175800,72.960425,"Mulund, Mumbai",Pedestrian crossing
+MUM-CAM-0701,Bhandup Traffic Camera 1,19.140700,72.933175,"Bhandup, Mumbai",Signal junction
+MUM-CAM-0702,Bhandup Traffic Camera 2,19.142500,72.933175,"Bhandup, Mumbai",Flyover approach
+MUM-CAM-0703,Bhandup Traffic Camera 3,19.144300,72.933175,"Bhandup, Mumbai",Market stretch
+MUM-CAM-0704,Bhandup Traffic Camera 4,19.146100,72.933175,"Bhandup, Mumbai",Transit corridor
+MUM-CAM-0705,Bhandup Traffic Camera 5,19.147900,72.933175,"Bhandup, Mumbai",Pedestrian crossing
+MUM-CAM-0706,Bhandup Traffic Camera 6,19.140700,72.935075,"Bhandup, Mumbai",Signal junction
+MUM-CAM-0707,Bhandup Traffic Camera 7,19.142500,72.935075,"Bhandup, Mumbai",Flyover approach
+MUM-CAM-0708,Bhandup Traffic Camera 8,19.144300,72.935075,"Bhandup, Mumbai",Market stretch
+MUM-CAM-0709,Bhandup Traffic Camera 9,19.146100,72.935075,"Bhandup, Mumbai",Transit corridor
+MUM-CAM-0710,Bhandup Traffic Camera 10,19.147900,72.935075,"Bhandup, Mumbai",Pedestrian crossing
+MUM-CAM-0711,Bhandup Traffic Camera 11,19.140700,72.936975,"Bhandup, Mumbai",Signal junction
+MUM-CAM-0712,Bhandup Traffic Camera 12,19.142500,72.936975,"Bhandup, Mumbai",Flyover approach
+MUM-CAM-0713,Bhandup Traffic Camera 13,19.144300,72.936975,"Bhandup, Mumbai",Market stretch
+MUM-CAM-0714,Bhandup Traffic Camera 14,19.146100,72.936975,"Bhandup, Mumbai",Transit corridor
+MUM-CAM-0715,Bhandup Traffic Camera 15,19.147900,72.936975,"Bhandup, Mumbai",Pedestrian crossing
+MUM-CAM-0716,Bhandup Traffic Camera 16,19.140700,72.938875,"Bhandup, Mumbai",Signal junction
+MUM-CAM-0717,Bhandup Traffic Camera 17,19.142500,72.938875,"Bhandup, Mumbai",Flyover approach
+MUM-CAM-0718,Bhandup Traffic Camera 18,19.144300,72.938875,"Bhandup, Mumbai",Market stretch
+MUM-CAM-0719,Bhandup Traffic Camera 19,19.146100,72.938875,"Bhandup, Mumbai",Transit corridor
+MUM-CAM-0720,Bhandup Traffic Camera 20,19.147900,72.938875,"Bhandup, Mumbai",Pedestrian crossing
+MUM-CAM-0721,Bhandup Traffic Camera 21,19.140700,72.940775,"Bhandup, Mumbai",Signal junction
+MUM-CAM-0722,Bhandup Traffic Camera 22,19.142500,72.940775,"Bhandup, Mumbai",Flyover approach
+MUM-CAM-0723,Bhandup Traffic Camera 23,19.144300,72.940775,"Bhandup, Mumbai",Market stretch
+MUM-CAM-0724,Bhandup Traffic Camera 24,19.146100,72.940775,"Bhandup, Mumbai",Transit corridor
+MUM-CAM-0725,Bhandup Traffic Camera 25,19.147900,72.940775,"Bhandup, Mumbai",Pedestrian crossing
+MUM-CAM-0726,Thane Creek Approach Traffic Camera 1,19.178800,72.967825,"Thane Creek Approach, Mumbai",Signal junction
+MUM-CAM-0727,Thane Creek Approach Traffic Camera 2,19.180600,72.967825,"Thane Creek Approach, Mumbai",Flyover approach
+MUM-CAM-0728,Thane Creek Approach Traffic Camera 3,19.182400,72.967825,"Thane Creek Approach, Mumbai",Market stretch
+MUM-CAM-0729,Thane Creek Approach Traffic Camera 4,19.184200,72.967825,"Thane Creek Approach, Mumbai",Transit corridor
+MUM-CAM-0730,Thane Creek Approach Traffic Camera 5,19.186000,72.967825,"Thane Creek Approach, Mumbai",Pedestrian crossing
+MUM-CAM-0731,Thane Creek Approach Traffic Camera 6,19.178800,72.969725,"Thane Creek Approach, Mumbai",Signal junction
+MUM-CAM-0732,Thane Creek Approach Traffic Camera 7,19.180600,72.969725,"Thane Creek Approach, Mumbai",Flyover approach
+MUM-CAM-0733,Thane Creek Approach Traffic Camera 8,19.182400,72.969725,"Thane Creek Approach, Mumbai",Market stretch
+MUM-CAM-0734,Thane Creek Approach Traffic Camera 9,19.184200,72.969725,"Thane Creek Approach, Mumbai",Transit corridor
+MUM-CAM-0735,Thane Creek Approach Traffic Camera 10,19.186000,72.969725,"Thane Creek Approach, Mumbai",Pedestrian crossing
+MUM-CAM-0736,Thane Creek Approach Traffic Camera 11,19.178800,72.971625,"Thane Creek Approach, Mumbai",Signal junction
+MUM-CAM-0737,Thane Creek Approach Traffic Camera 12,19.180600,72.971625,"Thane Creek Approach, Mumbai",Flyover approach
+MUM-CAM-0738,Thane Creek Approach Traffic Camera 13,19.182400,72.971625,"Thane Creek Approach, Mumbai",Market stretch
+MUM-CAM-0739,Thane Creek Approach Traffic Camera 14,19.184200,72.971625,"Thane Creek Approach, Mumbai",Transit corridor
+MUM-CAM-0740,Thane Creek Approach Traffic Camera 15,19.186000,72.971625,"Thane Creek Approach, Mumbai",Pedestrian crossing
+MUM-CAM-0741,Thane Creek Approach Traffic Camera 16,19.178800,72.973525,"Thane Creek Approach, Mumbai",Signal junction
+MUM-CAM-0742,Thane Creek Approach Traffic Camera 17,19.180600,72.973525,"Thane Creek Approach, Mumbai",Flyover approach
+MUM-CAM-0743,Thane Creek Approach Traffic Camera 18,19.182400,72.973525,"Thane Creek Approach, Mumbai",Market stretch
+MUM-CAM-0744,Thane Creek Approach Traffic Camera 19,19.184200,72.973525,"Thane Creek Approach, Mumbai",Transit corridor
+MUM-CAM-0745,Thane Creek Approach Traffic Camera 20,19.186000,72.973525,"Thane Creek Approach, Mumbai",Pedestrian crossing
+MUM-CAM-0746,Thane Creek Approach Traffic Camera 21,19.178800,72.975425,"Thane Creek Approach, Mumbai",Signal junction
+MUM-CAM-0747,Thane Creek Approach Traffic Camera 22,19.180600,72.975425,"Thane Creek Approach, Mumbai",Flyover approach
+MUM-CAM-0748,Thane Creek Approach Traffic Camera 23,19.182400,72.975425,"Thane Creek Approach, Mumbai",Market stretch
+MUM-CAM-0749,Thane Creek Approach Traffic Camera 24,19.184200,72.975425,"Thane Creek Approach, Mumbai",Transit corridor
+MUM-CAM-0750,Thane Creek Approach Traffic Camera 25,19.186000,72.975425,"Thane Creek Approach, Mumbai",Pedestrian crossing
+MUM-CAM-0751,Sion Traffic Camera 1,19.042900,72.859175,"Sion, Mumbai",Signal junction
+MUM-CAM-0752,Sion Traffic Camera 2,19.044700,72.859175,"Sion, Mumbai",Flyover approach
+MUM-CAM-0753,Sion Traffic Camera 3,19.046500,72.859175,"Sion, Mumbai",Market stretch
+MUM-CAM-0754,Sion Traffic Camera 4,19.048300,72.859175,"Sion, Mumbai",Transit corridor
+MUM-CAM-0755,Sion Traffic Camera 5,19.050100,72.859175,"Sion, Mumbai",Pedestrian crossing
+MUM-CAM-0756,Sion Traffic Camera 6,19.042900,72.861075,"Sion, Mumbai",Signal junction
+MUM-CAM-0757,Sion Traffic Camera 7,19.044700,72.861075,"Sion, Mumbai",Flyover approach
+MUM-CAM-0758,Sion Traffic Camera 8,19.046500,72.861075,"Sion, Mumbai",Market stretch
+MUM-CAM-0759,Sion Traffic Camera 9,19.048300,72.861075,"Sion, Mumbai",Transit corridor
+MUM-CAM-0760,Sion Traffic Camera 10,19.050100,72.861075,"Sion, Mumbai",Pedestrian crossing
+MUM-CAM-0761,Sion Traffic Camera 11,19.042900,72.862975,"Sion, Mumbai",Signal junction
+MUM-CAM-0762,Sion Traffic Camera 12,19.044700,72.862975,"Sion, Mumbai",Flyover approach
+MUM-CAM-0763,Sion Traffic Camera 13,19.046500,72.862975,"Sion, Mumbai",Market stretch
+MUM-CAM-0764,Sion Traffic Camera 14,19.048300,72.862975,"Sion, Mumbai",Transit corridor
+MUM-CAM-0765,Sion Traffic Camera 15,19.050100,72.862975,"Sion, Mumbai",Pedestrian crossing
+MUM-CAM-0766,Sion Traffic Camera 16,19.042900,72.864875,"Sion, Mumbai",Signal junction
+MUM-CAM-0767,Sion Traffic Camera 17,19.044700,72.864875,"Sion, Mumbai",Flyover approach
+MUM-CAM-0768,Sion Traffic Camera 18,19.046500,72.864875,"Sion, Mumbai",Market stretch
+MUM-CAM-0769,Sion Traffic Camera 19,19.048300,72.864875,"Sion, Mumbai",Transit corridor
+MUM-CAM-0770,Sion Traffic Camera 20,19.050100,72.864875,"Sion, Mumbai",Pedestrian crossing
+MUM-CAM-0771,Sion Traffic Camera 21,19.042900,72.866775,"Sion, Mumbai",Signal junction
+MUM-CAM-0772,Sion Traffic Camera 22,19.044700,72.866775,"Sion, Mumbai",Flyover approach
+MUM-CAM-0773,Sion Traffic Camera 23,19.046500,72.866775,"Sion, Mumbai",Market stretch
+MUM-CAM-0774,Sion Traffic Camera 24,19.048300,72.866775,"Sion, Mumbai",Transit corridor
+MUM-CAM-0775,Sion Traffic Camera 25,19.050100,72.866775,"Sion, Mumbai",Pedestrian crossing
+MUM-CAM-0776,Matunga Traffic Camera 1,19.023800,72.852025,"Matunga, Mumbai",Signal junction
+MUM-CAM-0777,Matunga Traffic Camera 2,19.025600,72.852025,"Matunga, Mumbai",Flyover approach
+MUM-CAM-0778,Matunga Traffic Camera 3,19.027400,72.852025,"Matunga, Mumbai",Market stretch
+MUM-CAM-0779,Matunga Traffic Camera 4,19.029200,72.852025,"Matunga, Mumbai",Transit corridor
+MUM-CAM-0780,Matunga Traffic Camera 5,19.031000,72.852025,"Matunga, Mumbai",Pedestrian crossing
+MUM-CAM-0781,Matunga Traffic Camera 6,19.023800,72.853925,"Matunga, Mumbai",Signal junction
+MUM-CAM-0782,Matunga Traffic Camera 7,19.025600,72.853925,"Matunga, Mumbai",Flyover approach
+MUM-CAM-0783,Matunga Traffic Camera 8,19.027400,72.853925,"Matunga, Mumbai",Market stretch
+MUM-CAM-0784,Matunga Traffic Camera 9,19.029200,72.853925,"Matunga, Mumbai",Transit corridor
+MUM-CAM-0785,Matunga Traffic Camera 10,19.031000,72.853925,"Matunga, Mumbai",Pedestrian crossing
+MUM-CAM-0786,Matunga Traffic Camera 11,19.023800,72.855825,"Matunga, Mumbai",Signal junction
+MUM-CAM-0787,Matunga Traffic Camera 12,19.025600,72.855825,"Matunga, Mumbai",Flyover approach
+MUM-CAM-0788,Matunga Traffic Camera 13,19.027400,72.855825,"Matunga, Mumbai",Market stretch
+MUM-CAM-0789,Matunga Traffic Camera 14,19.029200,72.855825,"Matunga, Mumbai",Transit corridor
+MUM-CAM-0790,Matunga Traffic Camera 15,19.031000,72.855825,"Matunga, Mumbai",Pedestrian crossing
+MUM-CAM-0791,Matunga Traffic Camera 16,19.023800,72.857725,"Matunga, Mumbai",Signal junction
+MUM-CAM-0792,Matunga Traffic Camera 17,19.025600,72.857725,"Matunga, Mumbai",Flyover approach
+MUM-CAM-0793,Matunga Traffic Camera 18,19.027400,72.857725,"Matunga, Mumbai",Market stretch
+MUM-CAM-0794,Matunga Traffic Camera 19,19.029200,72.857725,"Matunga, Mumbai",Transit corridor
+MUM-CAM-0795,Matunga Traffic Camera 20,19.031000,72.857725,"Matunga, Mumbai",Pedestrian crossing
+MUM-CAM-0796,Matunga Traffic Camera 21,19.023800,72.859625,"Matunga, Mumbai",Signal junction
+MUM-CAM-0797,Matunga Traffic Camera 22,19.025600,72.859625,"Matunga, Mumbai",Flyover approach
+MUM-CAM-0798,Matunga Traffic Camera 23,19.027400,72.859625,"Matunga, Mumbai",Market stretch
+MUM-CAM-0799,Matunga Traffic Camera 24,19.029200,72.859625,"Matunga, Mumbai",Transit corridor
+MUM-CAM-0800,Matunga Traffic Camera 25,19.031000,72.859625,"Matunga, Mumbai",Pedestrian crossing
+MUM-CAM-0801,Wadala Traffic Camera 1,19.014700,72.858775,"Wadala, Mumbai",Signal junction
+MUM-CAM-0802,Wadala Traffic Camera 2,19.016500,72.858775,"Wadala, Mumbai",Flyover approach
+MUM-CAM-0803,Wadala Traffic Camera 3,19.018300,72.858775,"Wadala, Mumbai",Market stretch
+MUM-CAM-0804,Wadala Traffic Camera 4,19.020100,72.858775,"Wadala, Mumbai",Transit corridor
+MUM-CAM-0805,Wadala Traffic Camera 5,19.021900,72.858775,"Wadala, Mumbai",Pedestrian crossing
+MUM-CAM-0806,Wadala Traffic Camera 6,19.014700,72.860675,"Wadala, Mumbai",Signal junction
+MUM-CAM-0807,Wadala Traffic Camera 7,19.016500,72.860675,"Wadala, Mumbai",Flyover approach
+MUM-CAM-0808,Wadala Traffic Camera 8,19.018300,72.860675,"Wadala, Mumbai",Market stretch
+MUM-CAM-0809,Wadala Traffic Camera 9,19.020100,72.860675,"Wadala, Mumbai",Transit corridor
+MUM-CAM-0810,Wadala Traffic Camera 10,19.021900,72.860675,"Wadala, Mumbai",Pedestrian crossing
+MUM-CAM-0811,Wadala Traffic Camera 11,19.014700,72.862575,"Wadala, Mumbai",Signal junction
+MUM-CAM-0812,Wadala Traffic Camera 12,19.016500,72.862575,"Wadala, Mumbai",Flyover approach
+MUM-CAM-0813,Wadala Traffic Camera 13,19.018300,72.862575,"Wadala, Mumbai",Market stretch
+MUM-CAM-0814,Wadala Traffic Camera 14,19.020100,72.862575,"Wadala, Mumbai",Transit corridor
+MUM-CAM-0815,Wadala Traffic Camera 15,19.021900,72.862575,"Wadala, Mumbai",Pedestrian crossing
+MUM-CAM-0816,Wadala Traffic Camera 16,19.014700,72.864475,"Wadala, Mumbai",Signal junction
+MUM-CAM-0817,Wadala Traffic Camera 17,19.016500,72.864475,"Wadala, Mumbai",Flyover approach
+MUM-CAM-0818,Wadala Traffic Camera 18,19.018300,72.864475,"Wadala, Mumbai",Market stretch
+MUM-CAM-0819,Wadala Traffic Camera 19,19.020100,72.864475,"Wadala, Mumbai",Transit corridor
+MUM-CAM-0820,Wadala Traffic Camera 20,19.021900,72.864475,"Wadala, Mumbai",Pedestrian crossing
+MUM-CAM-0821,Wadala Traffic Camera 21,19.014700,72.866375,"Wadala, Mumbai",Signal junction
+MUM-CAM-0822,Wadala Traffic Camera 22,19.016500,72.866375,"Wadala, Mumbai",Flyover approach
+MUM-CAM-0823,Wadala Traffic Camera 23,19.018300,72.866375,"Wadala, Mumbai",Market stretch
+MUM-CAM-0824,Wadala Traffic Camera 24,19.020100,72.866375,"Wadala, Mumbai",Transit corridor
+MUM-CAM-0825,Wadala Traffic Camera 25,19.021900,72.866375,"Wadala, Mumbai",Pedestrian crossing
+MUM-CAM-0826,Lower Parel Traffic Camera 1,18.990900,72.826725,"Lower Parel, Mumbai",Signal junction
+MUM-CAM-0827,Lower Parel Traffic Camera 2,18.992700,72.826725,"Lower Parel, Mumbai",Flyover approach
+MUM-CAM-0828,Lower Parel Traffic Camera 3,18.994500,72.826725,"Lower Parel, Mumbai",Market stretch
+MUM-CAM-0829,Lower Parel Traffic Camera 4,18.996300,72.826725,"Lower Parel, Mumbai",Transit corridor
+MUM-CAM-0830,Lower Parel Traffic Camera 5,18.998100,72.826725,"Lower Parel, Mumbai",Pedestrian crossing
+MUM-CAM-0831,Lower Parel Traffic Camera 6,18.990900,72.828625,"Lower Parel, Mumbai",Signal junction
+MUM-CAM-0832,Lower Parel Traffic Camera 7,18.992700,72.828625,"Lower Parel, Mumbai",Flyover approach
+MUM-CAM-0833,Lower Parel Traffic Camera 8,18.994500,72.828625,"Lower Parel, Mumbai",Market stretch
+MUM-CAM-0834,Lower Parel Traffic Camera 9,18.996300,72.828625,"Lower Parel, Mumbai",Transit corridor
+MUM-CAM-0835,Lower Parel Traffic Camera 10,18.998100,72.828625,"Lower Parel, Mumbai",Pedestrian crossing
+MUM-CAM-0836,Lower Parel Traffic Camera 11,18.990900,72.830525,"Lower Parel, Mumbai",Signal junction
+MUM-CAM-0837,Lower Parel Traffic Camera 12,18.992700,72.830525,"Lower Parel, Mumbai",Flyover approach
+MUM-CAM-0838,Lower Parel Traffic Camera 13,18.994500,72.830525,"Lower Parel, Mumbai",Market stretch
+MUM-CAM-0839,Lower Parel Traffic Camera 14,18.996300,72.830525,"Lower Parel, Mumbai",Transit corridor
+MUM-CAM-0840,Lower Parel Traffic Camera 15,18.998100,72.830525,"Lower Parel, Mumbai",Pedestrian crossing
+MUM-CAM-0841,Lower Parel Traffic Camera 16,18.990900,72.832425,"Lower Parel, Mumbai",Signal junction
+MUM-CAM-0842,Lower Parel Traffic Camera 17,18.992700,72.832425,"Lower Parel, Mumbai",Flyover approach
+MUM-CAM-0843,Lower Parel Traffic Camera 18,18.994500,72.832425,"Lower Parel, Mumbai",Market stretch
+MUM-CAM-0844,Lower Parel Traffic Camera 19,18.996300,72.832425,"Lower Parel, Mumbai",Transit corridor
+MUM-CAM-0845,Lower Parel Traffic Camera 20,18.998100,72.832425,"Lower Parel, Mumbai",Pedestrian crossing
+MUM-CAM-0846,Lower Parel Traffic Camera 21,18.990900,72.834325,"Lower Parel, Mumbai",Signal junction
+MUM-CAM-0847,Lower Parel Traffic Camera 22,18.992700,72.834325,"Lower Parel, Mumbai",Flyover approach
+MUM-CAM-0848,Lower Parel Traffic Camera 23,18.994500,72.834325,"Lower Parel, Mumbai",Market stretch
+MUM-CAM-0849,Lower Parel Traffic Camera 24,18.996300,72.834325,"Lower Parel, Mumbai",Transit corridor
+MUM-CAM-0850,Lower Parel Traffic Camera 25,18.998100,72.834325,"Lower Parel, Mumbai",Pedestrian crossing
+MUM-CAM-0851,Prabhadevi Traffic Camera 1,19.013000,72.825875,"Prabhadevi, Mumbai",Signal junction
+MUM-CAM-0852,Prabhadevi Traffic Camera 2,19.014800,72.825875,"Prabhadevi, Mumbai",Flyover approach
+MUM-CAM-0853,Prabhadevi Traffic Camera 3,19.016600,72.825875,"Prabhadevi, Mumbai",Market stretch
+MUM-CAM-0854,Prabhadevi Traffic Camera 4,19.018400,72.825875,"Prabhadevi, Mumbai",Transit corridor
+MUM-CAM-0855,Prabhadevi Traffic Camera 5,19.020200,72.825875,"Prabhadevi, Mumbai",Pedestrian crossing
+MUM-CAM-0856,Prabhadevi Traffic Camera 6,19.013000,72.827775,"Prabhadevi, Mumbai",Signal junction
+MUM-CAM-0857,Prabhadevi Traffic Camera 7,19.014800,72.827775,"Prabhadevi, Mumbai",Flyover approach
+MUM-CAM-0858,Prabhadevi Traffic Camera 8,19.016600,72.827775,"Prabhadevi, Mumbai",Market stretch
+MUM-CAM-0859,Prabhadevi Traffic Camera 9,19.018400,72.827775,"Prabhadevi, Mumbai",Transit corridor
+MUM-CAM-0860,Prabhadevi Traffic Camera 10,19.020200,72.827775,"Prabhadevi, Mumbai",Pedestrian crossing
+MUM-CAM-0861,Prabhadevi Traffic Camera 11,19.013000,72.829675,"Prabhadevi, Mumbai",Signal junction
+MUM-CAM-0862,Prabhadevi Traffic Camera 12,19.014800,72.829675,"Prabhadevi, Mumbai",Flyover approach
+MUM-CAM-0863,Prabhadevi Traffic Camera 13,19.016600,72.829675,"Prabhadevi, Mumbai",Market stretch
+MUM-CAM-0864,Prabhadevi Traffic Camera 14,19.018400,72.829675,"Prabhadevi, Mumbai",Transit corridor
+MUM-CAM-0865,Prabhadevi Traffic Camera 15,19.020200,72.829675,"Prabhadevi, Mumbai",Pedestrian crossing
+MUM-CAM-0866,Prabhadevi Traffic Camera 16,19.013000,72.831575,"Prabhadevi, Mumbai",Signal junction
+MUM-CAM-0867,Prabhadevi Traffic Camera 17,19.014800,72.831575,"Prabhadevi, Mumbai",Flyover approach
+MUM-CAM-0868,Prabhadevi Traffic Camera 18,19.016600,72.831575,"Prabhadevi, Mumbai",Market stretch
+MUM-CAM-0869,Prabhadevi Traffic Camera 19,19.018400,72.831575,"Prabhadevi, Mumbai",Transit corridor
+MUM-CAM-0870,Prabhadevi Traffic Camera 20,19.020200,72.831575,"Prabhadevi, Mumbai",Pedestrian crossing
+MUM-CAM-0871,Prabhadevi Traffic Camera 21,19.013000,72.833475,"Prabhadevi, Mumbai",Signal junction
+MUM-CAM-0872,Prabhadevi Traffic Camera 22,19.014800,72.833475,"Prabhadevi, Mumbai",Flyover approach
+MUM-CAM-0873,Prabhadevi Traffic Camera 23,19.016600,72.833475,"Prabhadevi, Mumbai",Market stretch
+MUM-CAM-0874,Prabhadevi Traffic Camera 24,19.018400,72.833475,"Prabhadevi, Mumbai",Transit corridor
+MUM-CAM-0875,Prabhadevi Traffic Camera 25,19.020200,72.833475,"Prabhadevi, Mumbai",Pedestrian crossing
+MUM-CAM-0876,Mahim Traffic Camera 1,19.032100,72.836725,"Mahim, Mumbai",Signal junction
+MUM-CAM-0877,Mahim Traffic Camera 2,19.033900,72.836725,"Mahim, Mumbai",Flyover approach
+MUM-CAM-0878,Mahim Traffic Camera 3,19.035700,72.836725,"Mahim, Mumbai",Market stretch
+MUM-CAM-0879,Mahim Traffic Camera 4,19.037500,72.836725,"Mahim, Mumbai",Transit corridor
+MUM-CAM-0880,Mahim Traffic Camera 5,19.039300,72.836725,"Mahim, Mumbai",Pedestrian crossing
+MUM-CAM-0881,Mahim Traffic Camera 6,19.032100,72.838625,"Mahim, Mumbai",Signal junction
+MUM-CAM-0882,Mahim Traffic Camera 7,19.033900,72.838625,"Mahim, Mumbai",Flyover approach
+MUM-CAM-0883,Mahim Traffic Camera 8,19.035700,72.838625,"Mahim, Mumbai",Market stretch
+MUM-CAM-0884,Mahim Traffic Camera 9,19.037500,72.838625,"Mahim, Mumbai",Transit corridor
+MUM-CAM-0885,Mahim Traffic Camera 10,19.039300,72.838625,"Mahim, Mumbai",Pedestrian crossing
+MUM-CAM-0886,Mahim Traffic Camera 11,19.032100,72.840525,"Mahim, Mumbai",Signal junction
+MUM-CAM-0887,Mahim Traffic Camera 12,19.033900,72.840525,"Mahim, Mumbai",Flyover approach
+MUM-CAM-0888,Mahim Traffic Camera 13,19.035700,72.840525,"Mahim, Mumbai",Market stretch
+MUM-CAM-0889,Mahim Traffic Camera 14,19.037500,72.840525,"Mahim, Mumbai",Transit corridor
+MUM-CAM-0890,Mahim Traffic Camera 15,19.039300,72.840525,"Mahim, Mumbai",Pedestrian crossing
+MUM-CAM-0891,Mahim Traffic Camera 16,19.032100,72.842425,"Mahim, Mumbai",Signal junction
+MUM-CAM-0892,Mahim Traffic Camera 17,19.033900,72.842425,"Mahim, Mumbai",Flyover approach
+MUM-CAM-0893,Mahim Traffic Camera 18,19.035700,72.842425,"Mahim, Mumbai",Market stretch
+MUM-CAM-0894,Mahim Traffic Camera 19,19.037500,72.842425,"Mahim, Mumbai",Transit corridor
+MUM-CAM-0895,Mahim Traffic Camera 20,19.039300,72.842425,"Mahim, Mumbai",Pedestrian crossing
+MUM-CAM-0896,Mahim Traffic Camera 21,19.032100,72.844325,"Mahim, Mumbai",Signal junction
+MUM-CAM-0897,Mahim Traffic Camera 22,19.033900,72.844325,"Mahim, Mumbai",Flyover approach
+MUM-CAM-0898,Mahim Traffic Camera 23,19.035700,72.844325,"Mahim, Mumbai",Market stretch
+MUM-CAM-0899,Mahim Traffic Camera 24,19.037500,72.844325,"Mahim, Mumbai",Transit corridor
+MUM-CAM-0900,Mahim Traffic Camera 25,19.039300,72.844325,"Mahim, Mumbai",Pedestrian crossing
+MUM-CAM-0901,BKC Traffic Camera 1,19.063500,72.865475,"BKC, Mumbai",Signal junction
+MUM-CAM-0902,BKC Traffic Camera 2,19.065300,72.865475,"BKC, Mumbai",Flyover approach
+MUM-CAM-0903,BKC Traffic Camera 3,19.067100,72.865475,"BKC, Mumbai",Market stretch
+MUM-CAM-0904,BKC Traffic Camera 4,19.068900,72.865475,"BKC, Mumbai",Transit corridor
+MUM-CAM-0905,BKC Traffic Camera 5,19.070700,72.865475,"BKC, Mumbai",Pedestrian crossing
+MUM-CAM-0906,BKC Traffic Camera 6,19.063500,72.867375,"BKC, Mumbai",Signal junction
+MUM-CAM-0907,BKC Traffic Camera 7,19.065300,72.867375,"BKC, Mumbai",Flyover approach
+MUM-CAM-0908,BKC Traffic Camera 8,19.067100,72.867375,"BKC, Mumbai",Market stretch
+MUM-CAM-0909,BKC Traffic Camera 9,19.068900,72.867375,"BKC, Mumbai",Transit corridor
+MUM-CAM-0910,BKC Traffic Camera 10,19.070700,72.867375,"BKC, Mumbai",Pedestrian crossing
+MUM-CAM-0911,BKC Traffic Camera 11,19.063500,72.869275,"BKC, Mumbai",Signal junction
+MUM-CAM-0912,BKC Traffic Camera 12,19.065300,72.869275,"BKC, Mumbai",Flyover approach
+MUM-CAM-0913,BKC Traffic Camera 13,19.067100,72.869275,"BKC, Mumbai",Market stretch
+MUM-CAM-0914,BKC Traffic Camera 14,19.068900,72.869275,"BKC, Mumbai",Transit corridor
+MUM-CAM-0915,BKC Traffic Camera 15,19.070700,72.869275,"BKC, Mumbai",Pedestrian crossing
+MUM-CAM-0916,BKC Traffic Camera 16,19.063500,72.871175,"BKC, Mumbai",Signal junction
+MUM-CAM-0917,BKC Traffic Camera 17,19.065300,72.871175,"BKC, Mumbai",Flyover approach
+MUM-CAM-0918,BKC Traffic Camera 18,19.067100,72.871175,"BKC, Mumbai",Market stretch
+MUM-CAM-0919,BKC Traffic Camera 19,19.068900,72.871175,"BKC, Mumbai",Transit corridor
+MUM-CAM-0920,BKC Traffic Camera 20,19.070700,72.871175,"BKC, Mumbai",Pedestrian crossing
+MUM-CAM-0921,BKC Traffic Camera 21,19.063500,72.873075,"BKC, Mumbai",Signal junction
+MUM-CAM-0922,BKC Traffic Camera 22,19.065300,72.873075,"BKC, Mumbai",Flyover approach
+MUM-CAM-0923,BKC Traffic Camera 23,19.067100,72.873075,"BKC, Mumbai",Market stretch
+MUM-CAM-0924,BKC Traffic Camera 24,19.068900,72.873075,"BKC, Mumbai",Transit corridor
+MUM-CAM-0925,BKC Traffic Camera 25,19.070700,72.873075,"BKC, Mumbai",Pedestrian crossing
+MUM-CAM-0926,Seepz Traffic Camera 1,19.114500,72.867025,"Seepz, Mumbai",Signal junction
+MUM-CAM-0927,Seepz Traffic Camera 2,19.116300,72.867025,"Seepz, Mumbai",Flyover approach
+MUM-CAM-0928,Seepz Traffic Camera 3,19.118100,72.867025,"Seepz, Mumbai",Market stretch
+MUM-CAM-0929,Seepz Traffic Camera 4,19.119900,72.867025,"Seepz, Mumbai",Transit corridor
+MUM-CAM-0930,Seepz Traffic Camera 5,19.121700,72.867025,"Seepz, Mumbai",Pedestrian crossing
+MUM-CAM-0931,Seepz Traffic Camera 6,19.114500,72.868925,"Seepz, Mumbai",Signal junction
+MUM-CAM-0932,Seepz Traffic Camera 7,19.116300,72.868925,"Seepz, Mumbai",Flyover approach
+MUM-CAM-0933,Seepz Traffic Camera 8,19.118100,72.868925,"Seepz, Mumbai",Market stretch
+MUM-CAM-0934,Seepz Traffic Camera 9,19.119900,72.868925,"Seepz, Mumbai",Transit corridor
+MUM-CAM-0935,Seepz Traffic Camera 10,19.121700,72.868925,"Seepz, Mumbai",Pedestrian crossing
+MUM-CAM-0936,Seepz Traffic Camera 11,19.114500,72.870825,"Seepz, Mumbai",Signal junction
+MUM-CAM-0937,Seepz Traffic Camera 12,19.116300,72.870825,"Seepz, Mumbai",Flyover approach
+MUM-CAM-0938,Seepz Traffic Camera 13,19.118100,72.870825,"Seepz, Mumbai",Market stretch
+MUM-CAM-0939,Seepz Traffic Camera 14,19.119900,72.870825,"Seepz, Mumbai",Transit corridor
+MUM-CAM-0940,Seepz Traffic Camera 15,19.121700,72.870825,"Seepz, Mumbai",Pedestrian crossing
+MUM-CAM-0941,Seepz Traffic Camera 16,19.114500,72.872725,"Seepz, Mumbai",Signal junction
+MUM-CAM-0942,Seepz Traffic Camera 17,19.116300,72.872725,"Seepz, Mumbai",Flyover approach
+MUM-CAM-0943,Seepz Traffic Camera 18,19.118100,72.872725,"Seepz, Mumbai",Market stretch
+MUM-CAM-0944,Seepz Traffic Camera 19,19.119900,72.872725,"Seepz, Mumbai",Transit corridor
+MUM-CAM-0945,Seepz Traffic Camera 20,19.121700,72.872725,"Seepz, Mumbai",Pedestrian crossing
+MUM-CAM-0946,Seepz Traffic Camera 21,19.114500,72.874625,"Seepz, Mumbai",Signal junction
+MUM-CAM-0947,Seepz Traffic Camera 22,19.116300,72.874625,"Seepz, Mumbai",Flyover approach
+MUM-CAM-0948,Seepz Traffic Camera 23,19.118100,72.874625,"Seepz, Mumbai",Market stretch
+MUM-CAM-0949,Seepz Traffic Camera 24,19.119900,72.874625,"Seepz, Mumbai",Transit corridor
+MUM-CAM-0950,Seepz Traffic Camera 25,19.121700,72.874625,"Seepz, Mumbai",Pedestrian crossing
+MUM-CAM-0951,Versova Traffic Camera 1,19.128300,72.810675,"Versova, Mumbai",Signal junction
+MUM-CAM-0952,Versova Traffic Camera 2,19.130100,72.810675,"Versova, Mumbai",Flyover approach
+MUM-CAM-0953,Versova Traffic Camera 3,19.131900,72.810675,"Versova, Mumbai",Market stretch
+MUM-CAM-0954,Versova Traffic Camera 4,19.133700,72.810675,"Versova, Mumbai",Transit corridor
+MUM-CAM-0955,Versova Traffic Camera 5,19.135500,72.810675,"Versova, Mumbai",Pedestrian crossing
+MUM-CAM-0956,Versova Traffic Camera 6,19.128300,72.812575,"Versova, Mumbai",Signal junction
+MUM-CAM-0957,Versova Traffic Camera 7,19.130100,72.812575,"Versova, Mumbai",Flyover approach
+MUM-CAM-0958,Versova Traffic Camera 8,19.131900,72.812575,"Versova, Mumbai",Market stretch
+MUM-CAM-0959,Versova Traffic Camera 9,19.133700,72.812575,"Versova, Mumbai",Transit corridor
+MUM-CAM-0960,Versova Traffic Camera 10,19.135500,72.812575,"Versova, Mumbai",Pedestrian crossing
+MUM-CAM-0961,Versova Traffic Camera 11,19.128300,72.814475,"Versova, Mumbai",Signal junction
+MUM-CAM-0962,Versova Traffic Camera 12,19.130100,72.814475,"Versova, Mumbai",Flyover approach
+MUM-CAM-0963,Versova Traffic Camera 13,19.131900,72.814475,"Versova, Mumbai",Market stretch
+MUM-CAM-0964,Versova Traffic Camera 14,19.133700,72.814475,"Versova, Mumbai",Transit corridor
+MUM-CAM-0965,Versova Traffic Camera 15,19.135500,72.814475,"Versova, Mumbai",Pedestrian crossing
+MUM-CAM-0966,Versova Traffic Camera 16,19.128300,72.816375,"Versova, Mumbai",Signal junction
+MUM-CAM-0967,Versova Traffic Camera 17,19.130100,72.816375,"Versova, Mumbai",Flyover approach
+MUM-CAM-0968,Versova Traffic Camera 18,19.131900,72.816375,"Versova, Mumbai",Market stretch
+MUM-CAM-0969,Versova Traffic Camera 19,19.133700,72.816375,"Versova, Mumbai",Transit corridor
+MUM-CAM-0970,Versova Traffic Camera 20,19.135500,72.816375,"Versova, Mumbai",Pedestrian crossing
+MUM-CAM-0971,Versova Traffic Camera 21,19.128300,72.818275,"Versova, Mumbai",Signal junction
+MUM-CAM-0972,Versova Traffic Camera 22,19.130100,72.818275,"Versova, Mumbai",Flyover approach
+MUM-CAM-0973,Versova Traffic Camera 23,19.131900,72.818275,"Versova, Mumbai",Market stretch
+MUM-CAM-0974,Versova Traffic Camera 24,19.133700,72.818275,"Versova, Mumbai",Transit corridor
+MUM-CAM-0975,Versova Traffic Camera 25,19.135500,72.818275,"Versova, Mumbai",Pedestrian crossing
+MUM-CAM-0976,Mira Road Approach Traffic Camera 1,19.283000,72.868725,"Mira Road Approach, Mumbai",Signal junction
+MUM-CAM-0977,Mira Road Approach Traffic Camera 2,19.284800,72.868725,"Mira Road Approach, Mumbai",Flyover approach
+MUM-CAM-0978,Mira Road Approach Traffic Camera 3,19.286600,72.868725,"Mira Road Approach, Mumbai",Market stretch
+MUM-CAM-0979,Mira Road Approach Traffic Camera 4,19.288400,72.868725,"Mira Road Approach, Mumbai",Transit corridor
+MUM-CAM-0980,Mira Road Approach Traffic Camera 5,19.290200,72.868725,"Mira Road Approach, Mumbai",Pedestrian crossing
+MUM-CAM-0981,Mira Road Approach Traffic Camera 6,19.283000,72.870625,"Mira Road Approach, Mumbai",Signal junction
+MUM-CAM-0982,Mira Road Approach Traffic Camera 7,19.284800,72.870625,"Mira Road Approach, Mumbai",Flyover approach
+MUM-CAM-0983,Mira Road Approach Traffic Camera 8,19.286600,72.870625,"Mira Road Approach, Mumbai",Market stretch
+MUM-CAM-0984,Mira Road Approach Traffic Camera 9,19.288400,72.870625,"Mira Road Approach, Mumbai",Transit corridor
+MUM-CAM-0985,Mira Road Approach Traffic Camera 10,19.290200,72.870625,"Mira Road Approach, Mumbai",Pedestrian crossing
+MUM-CAM-0986,Mira Road Approach Traffic Camera 11,19.283000,72.872525,"Mira Road Approach, Mumbai",Signal junction
+MUM-CAM-0987,Mira Road Approach Traffic Camera 12,19.284800,72.872525,"Mira Road Approach, Mumbai",Flyover approach
+MUM-CAM-0988,Mira Road Approach Traffic Camera 13,19.286600,72.872525,"Mira Road Approach, Mumbai",Market stretch
+MUM-CAM-0989,Mira Road Approach Traffic Camera 14,19.288400,72.872525,"Mira Road Approach, Mumbai",Transit corridor
+MUM-CAM-0990,Mira Road Approach Traffic Camera 15,19.290200,72.872525,"Mira Road Approach, Mumbai",Pedestrian crossing
+MUM-CAM-0991,Mira Road Approach Traffic Camera 16,19.283000,72.874425,"Mira Road Approach, Mumbai",Signal junction
+MUM-CAM-0992,Mira Road Approach Traffic Camera 17,19.284800,72.874425,"Mira Road Approach, Mumbai",Flyover approach
+MUM-CAM-0993,Mira Road Approach Traffic Camera 18,19.286600,72.874425,"Mira Road Approach, Mumbai",Market stretch
+MUM-CAM-0994,Mira Road Approach Traffic Camera 19,19.288400,72.874425,"Mira Road Approach, Mumbai",Transit corridor
+MUM-CAM-0995,Mira Road Approach Traffic Camera 20,19.290200,72.874425,"Mira Road Approach, Mumbai",Pedestrian crossing
+MUM-CAM-0996,Mira Road Approach Traffic Camera 21,19.283000,72.876325,"Mira Road Approach, Mumbai",Signal junction
+MUM-CAM-0997,Mira Road Approach Traffic Camera 22,19.284800,72.876325,"Mira Road Approach, Mumbai",Flyover approach
+MUM-CAM-0998,Mira Road Approach Traffic Camera 23,19.286600,72.876325,"Mira Road Approach, Mumbai",Market stretch
+MUM-CAM-0999,Mira Road Approach Traffic Camera 24,19.288400,72.876325,"Mira Road Approach, Mumbai",Transit corridor
+MUM-CAM-1000,Mira Road Approach Traffic Camera 25,19.290200,72.876325,"Mira Road Approach, Mumbai",Pedestrian crossing
