@@ -478,6 +478,11 @@ PUBLIC_BASE_URL=https://your-ngrok-url.ngrok-free.dev
 <img width="1532" height="839" alt="image" src="https://github.com/user-attachments/assets/f59140e4-6d55-44f6-9259-2c6690876947" />
 
 ---
+## Maps
+<img width="1510" height="819" alt="image" src="https://github.com/user-attachments/assets/9dc3bf53-ea00-497e-8068-1186dc9a6581" />
+
+---
+
 
 ## input/nearest hospitals and policestation
 <img width="1665" height="830" alt="image" src="https://github.com/user-attachments/assets/460c647b-4b62-427d-9286-76c172bca1c0" />
