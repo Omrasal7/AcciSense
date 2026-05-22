@@ -202,7 +202,10 @@ class DetectionAgent:
         return self._fallback_centroids
 
     def _build_feature_matrix(self, directory: Path) -> np.ndarray:
-        image_paths = sorted(directory.glob("*.jpg"))
+        image_paths: list[Path] = []
+        for pattern in ("*.jpg", "*.jpeg", "*.png", "*.webp"):
+            image_paths.extend(directory.rglob(pattern))
+        image_paths = sorted(set(image_paths))
         if not image_paths:
             return np.array([])
 

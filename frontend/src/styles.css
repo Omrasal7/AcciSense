@@ -474,46 +474,12 @@ textarea {
   overflow: hidden;
 }
 
-.camera-mesh-node {
-  position: absolute;
-  height: 12px;
-  width: 12px;
-  border-radius: 999px;
-  background: #38bdf8;
-  box-shadow: 0 0 0 7px rgba(56, 189, 248, 0.10), 0 0 16px rgba(56, 189, 248, 0.26);
-}
-
-.camera-mesh-node--alert {
-  background: #22c55e;
-  box-shadow: 0 0 0 8px rgba(34, 197, 94, 0.10), 0 0 18px rgba(34, 197, 94, 0.34);
-  animation: accisense-soft-pulse 2s ease-out infinite;
-}
-
-.camera-mesh-node--a { left: 24%; top: 28%; }
-.camera-mesh-node--b { left: 49%; top: 44%; }
-.camera-mesh-node--c { left: 74%; top: 28%; }
-
-.camera-mesh-link {
-  position: absolute;
-  height: 2px;
-  border-radius: 999px;
-  background: linear-gradient(90deg, rgba(56, 189, 248, 0.14), rgba(56, 189, 248, 0.7), rgba(56, 189, 248, 0.14));
-  box-shadow: 0 0 12px rgba(56, 189, 248, 0.12);
-  transform-origin: left center;
-}
-
-.camera-mesh-link--one {
-  left: 25%;
-  top: 31%;
-  width: 26%;
-  transform: rotate(22deg);
-}
-
-.camera-mesh-link--two {
-  left: 50%;
-  top: 41%;
-  width: 26%;
-  transform: rotate(-22deg);
+.camera-mesh-image {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
+  display: block;
 }
 
 .camera-ops-rows {
@@ -554,6 +520,10 @@ textarea {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 0.9rem;
+  padding: 0.9rem 1rem 0.75rem;
+  border-radius: 16px;
+  background: linear-gradient(180deg, rgba(2, 6, 23, 0.03), rgba(2, 6, 23, 0.34));
+  backdrop-filter: blur(4px);
 }
 
 .camera-mesh-stat {

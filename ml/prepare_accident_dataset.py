@@ -128,7 +128,7 @@ def curate_class(
 def list_image_paths(source: Path) -> list[Path]:
     image_paths: list[Path] = []
     for pattern in ("*.jpg", "*.jpeg", "*.png", "*.webp"):
-        image_paths.extend(source.glob(pattern))
+        image_paths.extend(source.rglob(pattern))
     return sorted(set(image_paths))
 
 

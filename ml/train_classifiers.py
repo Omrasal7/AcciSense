@@ -1,5 +1,8 @@
 import argparse
+import os
+import stat
 import shutil
+import time
 from pathlib import Path
 
 import numpy as np
@@ -18,7 +21,7 @@ MODELS_DIR.mkdir(parents=True, exist_ok=True)
 CURATED_ACCIDENT_ROOT = ROOT / "datasets" / "accident_curated"
 TRAINING_DATA_ROOT = ROOT / "training_data"
 VALIDATION_SPLIT = 0.2
-ACCIDENT_MAX_IMAGES_PER_CLASS = 1200
+ACCIDENT_MAX_IMAGES_PER_CLASS = 0
 SEVERITY_MAX_IMAGES_PER_CLASS = 900
 DEFAULT_EPOCHS = 12
 DEFAULT_IMAGE_SIZE = 224
@@ -36,17 +39,19 @@ HARD_NEGATIVE_PATTERNS = [
 
 
 def train_accident_classifier(epochs: int, imgsz: int, max_images: int) -> None:
-    dataset_dir = ROOT / "datasets" / "accident_cls"
+    dataset_dir = make_dataset_workspace("accident_cls")
     build_accident_dataset(dataset_dir, max_images)
-    model = YOLO("yolov8n-cls.pt")
+    accident_weights = MODELS_DIR / "accident_cls.pt"
+    model = YOLO(str(accident_weights if accident_weights.exists() else "yolov8n-cls.pt"))
     result = model.train(data=str(dataset_dir), epochs=epochs, imgsz=imgsz, project=str(MODELS_DIR), name="accident_cls_run")
     export_best_weights(Path(result.save_dir) / "weights" / "best.pt", MODELS_DIR / "accident_cls.pt")
 
 
 def train_severity_classifier(epochs: int, imgsz: int, max_images: int) -> None:
-    dataset_dir = ROOT / "datasets" / "severity_cls"
+    dataset_dir = make_dataset_workspace("severity_cls")
     build_severity_dataset(dataset_dir, max_images)
-    model = YOLO("yolov8n-cls.pt")
+    severity_weights = MODELS_DIR / "severity_cls.pt"
+    model = YOLO(str(severity_weights if severity_weights.exists() else "yolov8n-cls.pt"))
     result = model.train(data=str(dataset_dir), epochs=epochs, imgsz=imgsz, project=str(MODELS_DIR), name="severity_cls_run")
     export_best_weights(Path(result.save_dir) / "weights" / "best.pt", MODELS_DIR / "severity_cls.pt")
 
@@ -58,10 +63,12 @@ def build_accident_dataset(destination: Path, max_images: int) -> None:
     if curated_train.exists() and curated_val.exists():
         shutil.copytree(curated_train, destination / "train")
         shutil.copytree(curated_val, destination / "val")
+        print_dataset_summary(destination, "accident")
         return
 
     split_copy_tree(TRAINING_DATA_ROOT / "Accident", destination, "Accident", max_images)
     split_copy_tree(TRAINING_DATA_ROOT / "NonAccident", destination, "NonAccident", max_images, prioritize_hard_negatives=True)
+    print_dataset_summary(destination, "accident")
 
 
 def build_severity_dataset(destination: Path, max_images: int) -> None:
@@ -69,14 +76,27 @@ def build_severity_dataset(destination: Path, max_images: int) -> None:
     severity_root = TRAINING_DATA_ROOT / "Severity Score Dataset with Labels"
     for label in ["1", "2", "3"]:
         split_copy_tree(severity_root / label, destination, label, max_images)
+    print_dataset_summary(destination, "severity")
 
 
 def rebuild_dataset_root(destination: Path) -> None:
-    if destination.exists():
-        shutil.rmtree(destination)
+    if destination.exists() and any(destination.iterdir()):
+        shutil.rmtree(destination, onexc=handle_remove_readonly)
     cache_file = destination.with_suffix(".cache")
     if cache_file.exists():
         cache_file.unlink()
+    destination.mkdir(parents=True, exist_ok=True)
+
+
+def handle_remove_readonly(func, path, excinfo) -> None:
+    os.chmod(path, stat.S_IWRITE)
+    func(path)
+
+
+def make_dataset_workspace(prefix: str) -> Path:
+    workspace = ROOT / "datasets" / f"{prefix}_{int(time.time())}"
+    workspace.mkdir(parents=True, exist_ok=True)
+    return workspace
 
 
 def split_copy_tree(
@@ -115,11 +135,14 @@ def copy_paths(paths: list[Path], destination: Path) -> None:
 def list_image_paths(source: Path) -> list[Path]:
     image_paths: list[Path] = []
     for pattern in ("*.jpg", "*.jpeg", "*.png", "*.webp"):
-        image_paths.extend(source.glob(pattern))
+        image_paths.extend(source.rglob(pattern))
     return sorted(set(image_paths))
 
 
 def sample_paths(paths: list[Path], max_images: int, prioritize_hard_negatives: bool = False) -> list[Path]:
+    if max_images <= 0:
+        return paths
+
     if len(paths) <= max_images:
         return paths
 
@@ -167,12 +190,34 @@ def export_best_weights(source: Path, destination: Path) -> None:
         shutil.copy2(source, destination)
 
 
+def print_dataset_summary(dataset_root: Path, mode: str) -> None:
+    train_root = dataset_root / "train"
+    val_root = dataset_root / "val"
+    print(f"Prepared {mode} dataset at: {dataset_root}")
+    for split_root, split_name in ((train_root, "train"), (val_root, "val")):
+        if not split_root.exists():
+            print(f"  {split_name}: missing")
+            continue
+        class_dirs = sorted([path for path in split_root.iterdir() if path.is_dir()])
+        if not class_dirs:
+            print(f"  {split_name}: no class folders found")
+            continue
+        for class_dir in class_dirs:
+            count = len(list_image_paths(class_dir))
+            print(f"  {split_name}/{class_dir.name}: {count} images")
+
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Train compact YOLOv8 classifiers for AcciSense.")
     parser.add_argument("--mode", choices=["accident", "severity", "both"], default="accident")
     parser.add_argument("--epochs", type=int, default=DEFAULT_EPOCHS)
     parser.add_argument("--imgsz", type=int, default=DEFAULT_IMAGE_SIZE)
-    parser.add_argument("--accident-max", type=int, default=ACCIDENT_MAX_IMAGES_PER_CLASS)
+    parser.add_argument(
+        "--accident-max",
+        type=int,
+        default=ACCIDENT_MAX_IMAGES_PER_CLASS,
+        help="Maximum images per class for accident training. Use 0 to include all available images.",
+    )
     parser.add_argument("--severity-max", type=int, default=SEVERITY_MAX_IMAGES_PER_CLASS)
     args = parser.parse_args()
 

@@ -27,6 +27,7 @@ import {
   fetchContacts,
   fetchIncidents,
 } from "./api";
+import cameraCardImage from "./ChatGPT Image May 22, 2026, 06_41_00 PM.png";
 
 delete L.Icon.Default.prototype._getIconUrl;
 L.Icon.Default.mergeOptions({
@@ -512,11 +513,7 @@ function HeroVisualPanel({ currentPage, pageTitle, latestAccident, latestMappedI
                 <span className="hero-simple-badge hero-simple-badge--sky">Camera mesh live</span>
               </div>
               <div className="camera-mesh-canvas mt-4">
-                <span className="camera-mesh-link camera-mesh-link--one" />
-                <span className="camera-mesh-link camera-mesh-link--two" />
-                <span className="camera-mesh-node camera-mesh-node--a" />
-                <span className="camera-mesh-node camera-mesh-node--b camera-mesh-node--alert" />
-                <span className="camera-mesh-node camera-mesh-node--c" />
+                <img className="camera-mesh-image" src={cameraCardImage} alt="Camera network preview" />
                 <div className="camera-mesh-stats">
                   <div className="camera-mesh-stat">
                     <div className="camera-mesh-stat__label">Sources online</div>
