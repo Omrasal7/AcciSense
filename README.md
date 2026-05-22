@@ -470,12 +470,18 @@ PUBLIC_BASE_URL=https://your-ngrok-url.ngrok-free.dev
 
 ```md
 ## Dashboard
+<img width="1505" height="856" alt="image" src="https://github.com/user-attachments/assets/329d9bb9-9761-43e9-98ff-ab35e3387e99" />
 
-![Dashboard](screenshots/dashboard.png)
+## Location/maps
+<img width="1532" height="839" alt="image" src="https://github.com/user-attachments/assets/f59140e4-6d55-44f6-9259-2c6690876947" />
+<img width="1665" height="830" alt="image" src="https://github.com/user-attachments/assets/460c647b-4b62-427d-9286-76c172bca1c0" />
+
+
 
 ## Incident Review
 
-![Incidents](screenshots/incidents.png)
+<img width="1881" height="850" alt="image" src="https://github.com/user-attachments/assets/66e52ea0-a966-4522-bf42-ceb074909b72" />
+
 ```
 
 ---
