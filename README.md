@@ -1,171 +1,301 @@
-# AcciSense AI Emergency Response Platform
+# 🚨 AcciSense — AI Emergency Response & Accident Detection Platform
 
-AcciSense is a full-stack AI accident detection and emergency response platform for CCTV, roadside cameras, and uploaded media. It detects accidents, estimates severity, resolves location from camera metadata or EXIF, finds nearby hospitals and police stations, and sends alerts through SMS and email.
+<div align="center">
 
-The project is designed as a city-monitoring operations system with:
+### Intelligent AI-powered accident detection and emergency response system for CCTV, roadside cameras, and uploaded media
 
-- AI-assisted accident detection
-- Severity scoring
-- Camera-to-location mapping
-- Nearby emergency service lookup
-- Alert routing to an admin contact
-- A live web dashboard for operations review
+Built using **FastAPI**, **React**, **YOLOv8**, **OpenCV**, and **Leaflet Maps**
 
-## Features
+</div>
 
-- Accident detection for images and videos
-- Severity classification with policy-based moderation
-- Video analysis that scans the full clip and selects a representative event frame
-- Camera registry-based geolocation fallback
-- Reverse geocoding and map links
-- Nearby hospitals and police stations
-- Twilio SMS alerts
-- SMTP email alerts with HTML formatting
-- Live dashboard for:
-  - dashboard overview
-  - incident review
-  - camera monitoring
-  - map view
-  - admin contact management
+---
 
-## Tech Stack
+## 📌 Overview
 
-### Backend
+**AcciSense** is a full-stack AI-powered emergency response platform designed for smart city surveillance and traffic monitoring systems.
+
+The platform detects accidents from:
+
+- CCTV feeds
+- Roadside cameras
+- Uploaded images
+- Uploaded videos
+
+It then:
+
+- Estimates accident severity
+- Resolves location using EXIF or camera registry mapping
+- Finds nearby hospitals and police stations
+- Sends emergency alerts through SMS and Email
+- Displays incidents inside a live operational dashboard
+
+---
+
+# ✨ Features
+
+## 🚗 AI Accident Detection
+
+- Detects accidents from images and videos
+- Supports CCTV-style surveillance footage
+- False-positive reduction for calm road scenes
+- Optional YOLOv8 classification support
+
+---
+
+## 🎥 Intelligent Video Analysis
+
+- Scans the full uploaded video
+- Selects the most meaningful accident frame
+- Handles low-detail CCTV clips
+- Supports representative incident extraction
+
+---
+
+## ⚠️ Severity Classification
+
+The system classifies incidents into:
+
+- Low
+- Moderate
+- High
+- Critical
+
+Severity logic includes:
+
+- Fire detection influence
+- Dark-scene moderation
+- Extreme crash policy rules
+- Rule-based severity correction
+
+---
+
+## 📍 Smart Location Resolution
+
+Location is resolved using:
+
+1. Manual coordinates
+2. Image EXIF GPS
+3. Camera registry mapping
+4. Reverse geocoding
+
+---
+
+## 🏥 Nearby Emergency Services
+
+Automatically finds nearby:
+
+- Hospitals
+- Police stations
+
+Using:
+
+- OpenStreetMap
+- Nominatim
+- Overpass API
+- Local Mumbai fallback datasets
+
+---
+
+## 📲 Emergency Alert System
+
+Supports:
+
+### SMS Alerts
+
+Using:
+
+- Twilio SMS API
+
+### Email Alerts
+
+Using:
+
+- SMTP Email
+- HTML formatted emergency notifications
+
+---
+
+## 🖥️ Live Operations Dashboard
+
+Includes:
+
+- Dashboard overview
+- Incident review panel
+- Camera monitoring
+- Live map visualization
+- Admin contact management
+
+---
+
+# 🧠 System Architecture
+
+```text
+User Upload
+     │
+     ▼
+AI Accident Detection
+     │
+     ▼
+Severity Classification
+     │
+     ▼
+Location Resolution
+     │
+     ▼
+Nearby Service Lookup
+     │
+     ▼
+SMS / Email Alerts
+     │
+     ▼
+Live Dashboard Monitoring
+```
+
+---
+
+# 🛠️ Tech Stack
+
+## Backend
 
 - Python
 - FastAPI
 - OpenCV
 - NumPy
-- SQLite / JSON runtime store
-- Pillow / EXIF helpers
-- Optional Ultralytics YOLOv8 classification models
+- SQLite
+- Pillow
+- EXIF Helpers
+- YOLOv8 (Optional)
 
-### Frontend
+---
+
+## Frontend
 
 - React
 - Vite
 - Tailwind CSS
-- Leaflet
-- Lucide React icons
+- Leaflet Maps
+- Lucide React Icons
 
-### Notifications
+---
+
+## Notifications
 
 - Twilio SMS
-- SMTP email
+- SMTP Email Alerts
 
-### Maps and location
+---
+
+## Maps & Geolocation
 
 - OpenStreetMap
-- Nominatim reverse geocoding
-- Overpass nearby place lookup
-- Google Maps share links
+- Nominatim Reverse Geocoding
+- Overpass API
+- Google Maps Share Links
 
-## Project Structure
+---
+
+# 📂 Project Structure
 
 ```text
 AcciSense-ai based accident detection/
-├─ backend/
-│  ├─ app/
-│  │  ├─ api/
-│  │  ├─ core/
-│  │  ├─ repositories/
-│  │  ├─ schemas/
-│  │  └─ services/
-│  ├─ data/
-│  ├─ requirements.txt
-│  └─ requirements-yolo.txt
-├─ frontend/
-│  ├─ src/
-│  ├─ package.json
-│  └─ vite.config.js
-├─ ml/
-│  ├─ train_classifiers.py
-│  └─ prepare_accident_dataset.py
-├─ models/
-│  ├─ accident_cls.pt
-│  └─ severity_cls.pt
-├─ runtime/
-│  ├─ accisense_live.db
-│  ├─ accisense_live_store.json
-│  └─ uploads/
-├─ datasets/
-├─ training_data/
-│  ├─ Accident/
-│  ├─ NonAccident/
-│  └─ Severity Score Dataset with Labels/
-├─ tools/
-├─ .env
-├─ .env.example
-└─ README.md
+│
+├── backend/
+│   ├── app/
+│   │   ├── api/
+│   │   ├── core/
+│   │   ├── repositories/
+│   │   ├── schemas/
+│   │   └── services/
+│   │
+│   ├── data/
+│   ├── requirements.txt
+│   └── requirements-yolo.txt
+│
+├── frontend/
+│   ├── src/
+│   ├── package.json
+│   └── vite.config.js
+│
+├── ml/
+│   ├── train_classifiers.py
+│   └── prepare_accident_dataset.py
+│
+├── models/
+│   ├── accident_cls.pt
+│   └── severity_cls.pt
+│
+├── runtime/
+│   ├── accisense_live.db
+│   ├── accisense_live_store.json
+│   └── uploads/
+│
+├── datasets/
+├── training_data/
+├── tools/
+├── .env
+├── .env.example
+└── README.md
 ```
 
-## How the System Works
+---
 
-### 1. Media intake
+# ⚙️ Installation & Setup
 
-The user uploads an image or video and selects a camera source.
+## 1️⃣ Clone Repository
 
-### 2. Accident detection
+```bash
+git clone https://github.com/Omrasal7/your-repo-name.git
 
-The backend:
+cd "AcciSense-ai based accident detection"
+```
 
-- runs the accident classifier
-- applies conservative false-positive veto logic for calm road scenes
-- for videos, scans the full clip and tries to select a meaningful accident frame
+---
 
-### 3. Severity estimation
+## 2️⃣ Backend Setup
 
-The backend:
+```bash
+cd backend
 
-- runs the severity classifier when available
-- adjusts the raw severity based on rules such as:
-  - visible fire
-  - dark low-detail night scenes
-  - extreme vs moderate crash policy
+python -m venv .venv
 
-### 4. Location resolution
+.venv\Scripts\activate
 
-The backend resolves location in this order:
+pip install -r requirements.txt
+```
 
-1. request coordinates if provided
-2. EXIF GPS from image
-3. camera source registry lookup
-4. reverse geocoding to a readable address
+Run backend:
 
-### 5. Nearby services
+```bash
+python -m uvicorn app.main:app --reload --port 8001
+```
 
-The backend finds:
+Backend docs:
 
-- nearest hospitals
-- nearest police stations
+```text
+http://localhost:8001/docs
+```
 
-It uses live OpenStreetMap data first and local Mumbai fallback datasets if needed.
+---
 
-### 6. Notifications
+## 3️⃣ Frontend Setup
 
-The system can send:
+```bash
+cd frontend
 
-- SMS via Twilio
-- email via SMTP
+npm install
 
-Alerts are routed to the configured admin contact.
+npm run dev
+```
 
-## Prerequisites
+Frontend URL:
 
-Before running the project, make sure you have:
+```text
+http://localhost:5173
+```
 
-- Python 3.11+ recommended
-- Node.js 18+ recommended
-- npm
-- Git (optional but useful)
+---
 
-Optional:
-
-- ngrok for public media links in SMS/email
-- Twilio account for SMS
-- Gmail App Password or SMTP credentials for email
-
-## Environment Setup
+# 🔐 Environment Variables
 
 Copy:
 
@@ -179,230 +309,123 @@ to:
 .env
 ```
 
-Then configure the values you need.
-
-### Example `.env`
+Example:
 
 ```env
 APP_NAME=AcciSense API
 APP_ENV=development
 APP_HOST=0.0.0.0
 APP_PORT=8001
+
 FRONTEND_ORIGIN=http://localhost:5173
 PUBLIC_BASE_URL=http://localhost:8001
 
 ACCIDENT_MODEL_PATH=../models/accident_cls.pt
 SEVERITY_MODEL_PATH=../models/severity_cls.pt
+
 UPLOAD_DIR=../runtime/uploads
 DATABASE_PATH=../runtime/accisense_live.db
-CAMERA_REGISTRY_PATH=./data/camera_registry.csv
 
-ENABLE_OPENCV_FALLBACK=false
 ENABLE_TWILIO=false
 ENABLE_EMAIL=false
-
-TWILIO_ACCOUNT_SID=
-TWILIO_AUTH_TOKEN=
-TWILIO_FROM_NUMBER=
-DEFAULT_ALERT_PHONES=
-DEFAULT_ALERT_EMAILS=
-
-SMTP_HOST=smtp.gmail.com
-SMTP_PORT=587
-SMTP_USERNAME=
-SMTP_PASSWORD=
-SMTP_FROM_EMAIL=
-SMTP_USE_TLS=true
-
-GOOGLE_MAPS_API_KEY=
 ```
 
-## Backend Setup
+---
 
-From the project root:
+# 🤖 YOLOv8 Support (Optional)
+
+Install YOLO dependencies:
 
 ```bash
 cd backend
-python -m venv .venv
-.venv\Scripts\activate
-pip install -r requirements.txt
-```
 
-Run the backend:
-
-```bash
-python -m uvicorn app.main:app --reload --port 8001
-```
-
-Backend API docs:
-
-- [http://localhost:8001/docs](http://localhost:8001/docs)
-
-## Optional YOLO Support
-
-If you want model training and YOLO-based classification:
-
-```bash
-cd backend
 pip install -r requirements-yolo.txt
 ```
 
-If YOLO is not installed:
+---
 
-- training will not work
-- model-based accident detection will not initialize
+# 🧪 Model Training
 
-## Frontend Setup
+## Prepare Dataset
 
 ```bash
-cd frontend
-npm install
-npm run dev
+cd ml
+
+python prepare_accident_dataset.py --max-per-class 1400
 ```
 
-Frontend URL:
+---
 
-- [http://localhost:5173](http://localhost:5173)
+## Train Accident Classifier
 
-## Running the Full App
+```bash
+python train_classifiers.py --mode accident --epochs 12 --imgsz 224
+```
 
-Use this order:
+---
 
-1. Start backend
-2. Start frontend
-3. Open the frontend in browser
-4. Upload an image or video
-5. Select a camera source
-6. Review the result
+## Train Severity Classifier
 
-## Camera Registry
+```bash
+python train_classifiers.py --mode severity --epochs 12 --imgsz 224
+```
 
-The camera registry lets the system map camera IDs to fixed coordinates and addresses.
+---
 
-File:
+## Train Both Models
 
-- [C:\Accisense-ai based accident detection\backend\data\camera_registry.csv](C:/Accisense-ai based accident detection/backend/data/camera_registry.csv)
+```bash
+python train_classifiers.py --mode both --epochs 12 --imgsz 224
+```
+
+---
+
+# 📍 Camera Registry System
 
 Example:
 
 ```csv
-source_id,source_name,latitude,longitude,address,notes
-CAM-001,Highway Pole Camera 1,28.6139,77.2090,Connaught Place New Delhi,Northbound traffic feed
-NH44-CAM-07,NH44 Junction Camera,28.6448,77.2167,Near NH44 Junction,Crash-prone segment
-DRONE-12,Traffic Drone Patrol 12,28.5355,77.3910,Noida Sector 18,Aerial patrol zone
+source_id,source_name,latitude,longitude,address
+CAM-001,Highway Pole Camera 1,28.6139,77.2090,Connaught Place
 ```
 
-Location resolution order:
+Location priority:
 
-1. manual coordinates from request
+1. Manual coordinates
 2. EXIF GPS
-3. camera registry source ID
-4. reverse geocoding
+3. Camera registry lookup
+4. Reverse geocoding
 
-## Model Training
+---
 
-### Raw training data
-
-The raw folders are organized under:
-
-- `training_data/Accident/`
-- `training_data/NonAccident/`
-- `training_data/Severity Score Dataset with Labels/1`
-- `training_data/Severity Score Dataset with Labels/2`
-- `training_data/Severity Score Dataset with Labels/3`
-
-### Prepare a cleaner accident dataset
-
-This filters duplicates and weak-quality images and builds a curated training set:
-
-```bash
-cd ml
-python prepare_accident_dataset.py --max-per-class 1400
-```
-
-Output:
-
-- `datasets/accident_curated/`
-- `datasets/accident_curated/curation_report.csv`
-
-### Train accident classifier only
-
-Recommended first:
-
-```bash
-cd ml
-python train_classifiers.py --mode accident --epochs 12 --imgsz 224 --accident-max 1200
-```
-
-### Train severity classifier only
-
-```bash
-cd ml
-python train_classifiers.py --mode severity --epochs 12 --imgsz 224 --severity-max 900
-```
-
-### Train both
-
-```bash
-cd ml
-python train_classifiers.py --mode both --epochs 12 --imgsz 224 --accident-max 1200 --severity-max 900
-```
-
-### Output models
-
-The backend expects:
-
-- `models/accident_cls.pt`
-- `models/severity_cls.pt`
-
-After training, restart the backend to use the updated models.
-
-## Alerts Setup
-
-### Twilio SMS
-
-To enable SMS:
+# 📲 Twilio SMS Setup
 
 ```env
 ENABLE_TWILIO=true
+
 TWILIO_ACCOUNT_SID=AC...
 TWILIO_AUTH_TOKEN=...
 TWILIO_FROM_NUMBER=+1...
 DEFAULT_ALERT_PHONES=+91...
 ```
 
-Notes:
+---
 
-- Twilio trial accounts can only send to verified numbers
-- Twilio trial accounts have daily message limits
-- public snapshot links require a public `PUBLIC_BASE_URL`
-
-### Email
-
-To enable email:
+# 📧 Email Alert Setup
 
 ```env
 ENABLE_EMAIL=true
-DEFAULT_ALERT_EMAILS=you@example.com
+
 SMTP_HOST=smtp.gmail.com
 SMTP_PORT=587
-SMTP_USERNAME=you@example.com
+SMTP_USERNAME=your_email@gmail.com
 SMTP_PASSWORD=your_app_password
-SMTP_FROM_EMAIL=you@example.com
-SMTP_USE_TLS=true
+SMTP_FROM_EMAIL=your_email@gmail.com
 ```
 
-If using Gmail:
+---
 
-- enable 2-Step Verification
-- generate an App Password
-- use the App Password, not your normal Gmail password
-
-## ngrok for Public Snapshot URLs
-
-If you want image links inside SMS or email to open on another device, expose the backend publicly.
-
-Example:
+# 🌐 ngrok Support
 
 ```bash
 tools\ngrok\ngrok.exe http 8001
@@ -411,102 +434,76 @@ tools\ngrok\ngrok.exe http 8001
 Then set:
 
 ```env
-PUBLIC_BASE_URL=https://your-real-ngrok-url.ngrok-free.dev
+PUBLIC_BASE_URL=https://your-ngrok-url.ngrok-free.dev
 ```
 
-Restart the backend after changing it.
+---
 
-## Current Operational Rules
+# 🎬 Recommended Demo Flow
 
-### Notification routing
+1. Start backend
+2. Start frontend
+3. Configure admin contact
+4. Upload accident image/video
+5. Review:
+   - Accident detection
+   - Severity
+   - Location mapping
+   - Nearby hospitals
+   - Nearby police
+   - SMS/email alerts
 
-- alerts go to the configured admin contact
-- only one admin contact is active at a time
+---
 
-### Severity policy
+# 🔮 Future Improvements
 
-- `critical` is reserved for extreme scenes such as fire or strong destruction evidence
-- normal crashes should trend toward `moderate` or `high`
-- dark low-detail CCTV scenes are prevented from jumping too aggressively to `critical`
+- Real-time CCTV stream ingestion
+- Multi-camera incident correlation
+- AI object tracking
+- Emergency dispatch automation
+- Cloud deployment support
+- Mobile responder application
 
-### Static-scene false positive reduction
+---
 
-The detector uses extra scene analysis to suppress false positives for:
+# 📸 Screenshots
 
-- calm road scenes
-- parked vehicles
-- ordinary street CCTV frames
+```md
+## Dashboard
 
-## Troubleshooting
+![Dashboard](screenshots/dashboard.png)
 
-### Frontend shows runtime error
+## Incident Review
 
-- restart the frontend:
-
-```bash
-cd frontend
-npm run dev
+![Incidents](screenshots/incidents.png)
 ```
 
-- hard refresh browser with `Ctrl + F5`
+---
 
-### Backend not loading changes
+# 👨‍💻 Author
 
-- stop old backend windows
-- start a fresh backend instance:
+## Om Rasal
 
-```bash
-cd backend
-python -m uvicorn app.main:app --reload --port 8001
-```
+- MCA Student
+- AI/ML Enthusiast
+- Full Stack Developer
+- Data & Computer Vision Explorer
 
-### SMS not sending
+---
 
-Check:
+# ⭐ Support
 
-- Twilio credentials
-- trial limits
-- verified number requirement
-- public `PUBLIC_BASE_URL`
-- Twilio logs for final message status
+If you like this project:
 
-### Email not sending
+- Star the repository
+- Fork the project
+- Share feedback
+- Contribute improvements
 
-Check:
+---
 
-- SMTP credentials
-- Gmail App Password
-- `ENABLE_EMAIL=true`
+<div align="center">
 
-### Hospitals or police missing
+### 🚨 AcciSense — AI-Assisted Emergency Intelligence Platform
 
-The app first tries live OSM lookup and falls back to local Mumbai datasets. If an old incident card is missing these, upload a fresh incident because old saved results do not auto-refresh.
-
-## Recommended Demo Flow
-
-1. Start backend on `8001`
-2. Start frontend on `5173`
-3. Configure one admin contact
-4. Upload a known accident image
-5. Verify:
-   - accident detection
-   - severity
-   - map resolution
-   - nearby hospitals
-   - nearby police
-   - email/SMS alert behavior
-
-## Notes
-
-- This project is best treated as an AI-assisted emergency response demo / prototype platform
-- For production-grade deployment, you would still want:
-  - stronger datasets
-  - more reliable video event modeling
-  - better model calibration
-  - hardened alerting and observability
-
-## License / usage
-
-Add your preferred license here if you plan to publish the repository.
-#   A c c i S e n s e  
- 
+</div>
